@@ -385,7 +385,35 @@
   "sheets": [
     [
       "c11d1dbc-4db9-4712-8d1d-5f6f7086cded",
-      "Корневой лист"
+      "Root"
+    ],
+    [
+      "236c27c1-9285-48af-b94c-0a581f89ad4f",
+      "Current Sense U"
+    ],
+    [
+      "4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a",
+      "Current Filter U"
+    ],
+    [
+      "1bd0e084-5602-43f5-a9de-9167dc3ddabf",
+      "Current Sense V"
+    ],
+    [
+      "eb061644-a076-485c-afde-65b59d5b34e4",
+      "Current Sense W"
+    ],
+    [
+      "b143e45b-d52c-4c1e-956d-7828de21cc22",
+      "Current Filter V"
+    ],
+    [
+      "5abad072-255e-43b5-81ad-39000e042b96",
+      "Current Filter W"
+    ],
+    [
+      "5d407613-ca47-4478-86ea-137e1786be86",
+      "IPM"
     ]
   ],
   "text_variables": {}
