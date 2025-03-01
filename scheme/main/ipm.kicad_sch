@@ -1764,6 +1764,44 @@
 		)
 	)
 	(sheet
+		(at 81.28 153.67)
+		(size 34.29 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "ac75aa1d-a28e-4560-8180-07db9e006832")
+		(property "Sheetname" "vdc_meas"
+			(at 81.28 152.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vdc_meas.kicad_sch"
+			(at 81.28 201.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 121.92 100.33)
 		(size 25.4 7.62)
 		(fields_autoplaced yes)
