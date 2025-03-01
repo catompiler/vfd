@@ -880,6 +880,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 137.16) (xy 160.02 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d2f2bfa-2445-4868-adc4-468976a6535e")
+	)
+	(wire
+		(pts
 			(xy 160.02 96.52) (xy 170.18 96.52)
 		)
 		(stroke
@@ -887,6 +897,16 @@
 			(type default)
 		)
 		(uuid "377f2398-5ef5-43ad-8c6c-7ac4294df8ba")
+	)
+	(wire
+		(pts
+			(xy 160.02 181.61) (xy 176.53 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3896b9b9-f25d-4ec2-b2ae-bffd09b5ef1f")
 	)
 	(wire
 		(pts
@@ -977,6 +997,16 @@
 			(type default)
 		)
 		(uuid "7c802be6-f780-4910-b25a-e38d2d28fd19")
+	)
+	(wire
+		(pts
+			(xy 170.18 137.16) (xy 160.02 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89c11dc6-a3e9-4caa-b162-2ec4f8858f77")
 	)
 	(wire
 		(pts
@@ -1573,6 +1603,74 @@
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
 					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 179.07)
+		(size 19.05 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "80738a43-c598-4f09-a725-55d3789b6a7d")
+		(property "Sheetname" "Vfo"
+			(at 176.53 178.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vfo.kicad_sch"
+			(at 176.53 187.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "vfo" input
+			(at 176.53 181.61 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2724c374-f215-44f2-b4d3-0e059103fb66")
+		)
+		(pin "Fault" output
+			(at 195.58 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c8355369-0a4c-4d59-b4d8-4ab2f768522e")
+		)
+		(pin "Temp" output
+			(at 195.58 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0ac0aff5-4e19-4127-ab07-c4bed124fb12")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(page "13")
 				)
 			)
 		)

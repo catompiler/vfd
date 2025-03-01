@@ -838,7 +838,6 @@
 	(hierarchical_label "OUT"
 		(shape passive)
 		(at 135.89 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -850,7 +849,6 @@
 	(hierarchical_label "I+"
 		(shape passive)
 		(at 88.9 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -862,7 +860,6 @@
 	(hierarchical_label "I-"
 		(shape passive)
 		(at 88.9 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

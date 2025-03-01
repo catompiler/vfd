@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "main"
+    ]
   },
   "meta": {
     "filename": "main.kicad_pro",
@@ -335,13 +337,37 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Описание",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Обозначение"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -385,7 +411,7 @@
   "sheets": [
     [
       "c11d1dbc-4db9-4712-8d1d-5f6f7086cded",
-      "Корневой лист"
+      "Root"
     ],
     [
       "236c27c1-9285-48af-b94c-0a581f89ad4f",
@@ -430,6 +456,10 @@
     [
       "9cc54317-9719-471d-99c6-61bdaec9c6c9",
       "itrip"
+    ],
+    [
+      "80738a43-c598-4f09-a725-55d3789b6a7d",
+      "Vfo"
     ]
   ],
   "text_variables": {}
