@@ -1094,7 +1094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4df50ba0-1d23-467b-a7d1-07f6273569a6")
-		(property "Reference" "C32"
+		(property "Reference" "C33"
 			(at 135.89 100.3299 0)
 			(effects
 				(font
