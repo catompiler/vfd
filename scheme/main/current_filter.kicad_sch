@@ -1518,7 +1518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 94.9452 76.2 0)
 			(effects
 				(font
@@ -1670,7 +1670,7 @@
 				)
 			)
 		)
-		(property "Value" "100p"
+		(property "Value" "100pF"
 			(at 101.6 53.34 90)
 			(effects
 				(font
@@ -1678,7 +1678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 97.79 59.3852 0)
 			(effects
 				(font

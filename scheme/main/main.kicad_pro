@@ -366,8 +366,8 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "Value"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -426,12 +426,12 @@
       "Current Sense V"
     ],
     [
-      "eb061644-a076-485c-afde-65b59d5b34e4",
-      "Current Sense W"
-    ],
-    [
       "b143e45b-d52c-4c1e-956d-7828de21cc22",
       "Current Filter V"
+    ],
+    [
+      "eb061644-a076-485c-afde-65b59d5b34e4",
+      "Current Sense W"
     ],
     [
       "5abad072-255e-43b5-81ad-39000e042b96",
@@ -464,6 +464,10 @@
     [
       "65f1abf4-f16e-41b7-92a2-6e9eb3d99d97",
       "vdc_meas"
+    ],
+    [
+      "9ccbc314-e027-42d4-9a9d-e9d747352443",
+      "control_isol"
     ]
   ],
   "text_variables": {}

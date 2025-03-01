@@ -830,6 +830,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 121.92) (xy 121.92 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "130e7e20-a4fc-49d3-b1d5-0448a3f3d668")
+	)
+	(wire
+		(pts
 			(xy 147.32 102.87) (xy 152.4 102.87)
 		)
 		(stroke
@@ -950,6 +960,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 119.38) (xy 170.18 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ae17ab5-cab2-4f1c-a7c0-259e780d5348")
+	)
+	(wire
+		(pts
 			(xy 147.32 105.41) (xy 149.86 105.41)
 		)
 		(stroke
@@ -1020,6 +1040,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 127) (xy 170.18 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7518bf43-2e2c-4681-9ef1-03574db43c25")
+	)
+	(wire
+		(pts
 			(xy 160.02 80.01) (xy 160.02 96.52)
 		)
 		(stroke
@@ -1060,6 +1090,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 129.54) (xy 170.18 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99458347-197a-4f96-a4f4-bfb777c316d8")
+	)
+	(wire
+		(pts
 			(xy 200.66 137.16) (xy 205.74 137.16)
 		)
 		(stroke
@@ -1080,6 +1120,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 124.46) (xy 121.92 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a943111b-1272-4b8a-bc3e-748e46a78c3a")
+	)
+	(wire
+		(pts
 			(xy 195.58 184.15) (xy 203.2 184.15)
 		)
 		(stroke
@@ -1087,6 +1137,16 @@
 			(type default)
 		)
 		(uuid "aacad106-5963-4257-af4d-6c1e052f42ca")
+	)
+	(wire
+		(pts
+			(xy 114.3 129.54) (xy 121.92 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b12153eb-8ad9-406c-95fb-d1a692894dd0")
 	)
 	(wire
 		(pts
@@ -1130,6 +1190,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 124.46) (xy 170.18 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be0b8a7f-c641-4911-9f85-c70b78a14748")
+	)
+	(wire
+		(pts
 			(xy 170.18 142.24) (xy 167.64 142.24)
 		)
 		(stroke
@@ -1140,6 +1210,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 116.84) (xy 170.18 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7c71609-02e5-413b-acf2-10bf807e9c78")
+	)
+	(wire
+		(pts
 			(xy 195.58 163.83) (xy 198.12 163.83)
 		)
 		(stroke
@@ -1147,6 +1227,16 @@
 			(type default)
 		)
 		(uuid "c8751a62-002e-4082-bf0b-d48d8c796ff9")
+	)
+	(wire
+		(pts
+			(xy 114.3 119.38) (xy 121.92 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb72ec14-6f90-4439-acc8-cbdb282a0651")
 	)
 	(wire
 		(pts
@@ -1210,6 +1300,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 116.84) (xy 121.92 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4c7fc0e-2485-4348-a97c-e852adc2ec9e")
+	)
+	(wire
+		(pts
 			(xy 162.56 99.06) (xy 170.18 99.06)
 		)
 		(stroke
@@ -1238,6 +1338,26 @@
 		)
 		(uuid "f304f06e-17da-4554-a180-1d0331910c3a")
 	)
+	(wire
+		(pts
+			(xy 114.3 127) (xy 121.92 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9af3a8f-2ace-4c66-8903-83e8008bbbdd")
+	)
+	(wire
+		(pts
+			(xy 148.59 121.92) (xy 170.18 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdb7ebd1-fd70-4891-aeaf-d263461bb6d2")
+	)
 	(text "Согласно даташита, IGBT транзистор имеет энергию:\nпри 150 гр. цельсия:\nОткрытия: 130 мкДж\nЗакрытия: 190 мкДж\nпри 25 гр. цельсия:\nОткрытия: 75 мкДж\nЗакрытия: 120 мкДж\nМаксимальная необходимая частота коммутации: 16 кГц\nМинимальная необходимая частота коммутации: 4 кГц\nТаким образом, подводимая к каждому затвору мощность\nоказывается равной:\nМинимум:\nPgt_min = (75 мкДж + 120 мкДж) * 4 кГц = 0.780 Вт\nМаксимум:\nPgt_max = (130 мкДж + 190 мкДж) * 16 кГц = 5.12 Вт\nЗначит, мощность DC-DC преобразователя\nдля питания цепей затворов верхних ключей,\nдолжна быть в этих пределах,\nв зависимости от условий и частоты коммутации.\nВыберем преобразователь мощностью 5 Вт."
 		(exclude_from_sim no)
 		(at 117.602 49.022 0)
@@ -1248,6 +1368,17 @@
 			(justify left)
 		)
 		(uuid "f520480f-b6ce-457a-b77b-e83025e99b1b")
+	)
+	(hierarchical_label "HIN(U)"
+		(shape input)
+		(at 114.3 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "01c367d3-6ac2-4a85-a095-78efb9d36e93")
 	)
 	(hierarchical_label "Fault"
 		(shape output)
@@ -1271,6 +1402,39 @@
 		)
 		(uuid "4b3abb19-6124-4fe2-8565-e9f5aabdc7cf")
 	)
+	(hierarchical_label "LIN(U)"
+		(shape input)
+		(at 114.3 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "555d2b5e-392d-49bc-915a-fd00b7f02d3d")
+	)
+	(hierarchical_label "LIN(V)"
+		(shape input)
+		(at 114.3 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7b36859d-5b24-4393-85c0-b266a2f97330")
+	)
+	(hierarchical_label "LIN(W)"
+		(shape input)
+		(at 114.3 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "80b69e43-2031-4b3b-84ea-0335710e923c")
+	)
 	(hierarchical_label "V"
 		(shape output)
 		(at 212.09 119.38 0)
@@ -1292,6 +1456,28 @@
 			(justify left)
 		)
 		(uuid "dd2ef459-6418-44fa-8374-66627c0f3456")
+	)
+	(hierarchical_label "HIN(V)"
+		(shape input)
+		(at 114.3 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1419ba9-92a5-44d7-b94c-b594cf026a6b")
+	)
+	(hierarchical_label "HIN(W)"
+		(shape input)
+		(at 114.3 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ef1d5c24-fbe0-4657-9a7d-41a23b4b9ca5")
 	)
 	(hierarchical_label "Temp"
 		(shape output)
@@ -1844,6 +2030,164 @@
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
 					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 114.3)
+		(size 26.67 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "9ccbc314-e027-42d4-9a9d-e9d747352443")
+		(property "Sheetname" "control_isol"
+			(at 121.92 113.5884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "control_isol.kicad_sch"
+			(at 121.92 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LOUT(U)" output
+			(at 148.59 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5cab297c-5369-4707-82cb-acc61308231d")
+		)
+		(pin "LOUT(V)" output
+			(at 148.59 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3e30ebfe-2af1-4aed-9eaf-7c5c554858c1")
+		)
+		(pin "LOUT(W)" output
+			(at 148.59 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "190ceaa7-372c-45d6-9bf4-41b3179a0e71")
+		)
+		(pin "LIN(V)" input
+			(at 121.92 127 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "876bd8f7-0b7f-41ee-85f9-d4bec3aa7a9c")
+		)
+		(pin "LIN(U)" input
+			(at 121.92 124.46 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "708ada68-fa9f-4804-b14b-5c6cbd4e935b")
+		)
+		(pin "HIN(V)" input
+			(at 121.92 119.38 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a677f900-236e-4f16-95ee-791b119c1868")
+		)
+		(pin "HIN(W)" input
+			(at 121.92 121.92 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "df31e6d7-5d19-4549-950a-153376f881f7")
+		)
+		(pin "LIN(W)" input
+			(at 121.92 129.54 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "244b1a01-9935-4d8a-bae9-399c8d437fca")
+		)
+		(pin "HOUT(U)" output
+			(at 148.59 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "71585f55-68fd-4328-945f-72bd3f1989b4")
+		)
+		(pin "HOUT(W)" output
+			(at 148.59 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5dce1206-f9c7-4533-aa0d-df35eb005591")
+		)
+		(pin "HOUT(V)" output
+			(at 148.59 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b02b54f7-742e-4eb3-a878-2c7c21e82257")
+		)
+		(pin "HIN(U)" input
+			(at 121.92 116.84 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2da3f3b8-aa63-433e-a89b-7389a9ffb433")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(page "15")
 				)
 			)
 		)

@@ -1751,7 +1751,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.075"
+		(property "Value" "0.075R"
 			(at 64.77 116.8399 0)
 			(effects
 				(font
@@ -2244,7 +2244,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.075"
+		(property "Value" "0.075R"
 			(at 77.47 104.1399 0)
 			(effects
 				(font
@@ -2530,7 +2530,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.075"
+		(property "Value" "0.075R"
 			(at 90.17 91.4399 0)
 			(effects
 				(font
