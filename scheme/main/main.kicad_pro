@@ -235,7 +235,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "main"
+    ],
     "pinned_symbol_libs": [
       "main"
     ]
@@ -366,8 +368,8 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Value"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -468,6 +470,10 @@
     [
       "9ccbc314-e027-42d4-9a9d-e9d747352443",
       "control_isol"
+    ],
+    [
+      "f37982a3-337b-429f-abb6-a84102507a70",
+      "Power"
     ]
   ],
   "text_variables": {}

@@ -1,4 +1,4 @@
-24694345661315874
+24696086579177506
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99357,6 +99357,13 @@ IC_IKCM30F60GDXKMA1
 0
 26
 26
+main
+SCWN06B-15
+DCDC-Converter, TRACO, TEN 10-110xxWIRH, 10W, Rev. December 16. 2024 (Script generated with StandardBox.py) (https://www.tracopower.com/products/ten10wirh.pdf)
+DCDC-Converter TRACO TEN10WIRH THT DIP-24 COMPATIBLE_MPNS TEN3WIRH TEN6WIRH
+0
+8
+8
 main
 URB_ZP-6WR3
 
