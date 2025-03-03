@@ -3007,6 +3007,7 @@
 	(hierarchical_label "HIN(U)"
 		(shape input)
 		(at 39.37 30.48 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3018,6 +3019,7 @@
 	(hierarchical_label "LIN(V)"
 		(shape input)
 		(at 39.37 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3029,6 +3031,7 @@
 	(hierarchical_label "HIN(W)"
 		(shape input)
 		(at 39.37 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3040,6 +3043,7 @@
 	(hierarchical_label "LIN(U)"
 		(shape input)
 		(at 39.37 80.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3051,6 +3055,7 @@
 	(hierarchical_label "HOUT(W)"
 		(shape output)
 		(at 255.27 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3062,6 +3067,7 @@
 	(hierarchical_label "HIN(V)"
 		(shape input)
 		(at 39.37 46.99 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3073,6 +3079,7 @@
 	(hierarchical_label "LOUT(U)"
 		(shape output)
 		(at 255.27 80.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3084,6 +3091,7 @@
 	(hierarchical_label "HOUT(V)"
 		(shape output)
 		(at 255.27 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3095,6 +3103,7 @@
 	(hierarchical_label "HOUT(U)"
 		(shape output)
 		(at 255.27 30.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3106,6 +3115,7 @@
 	(hierarchical_label "LIN(W)"
 		(shape input)
 		(at 39.37 113.03 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3117,6 +3127,7 @@
 	(hierarchical_label "LOUT(V)"
 		(shape output)
 		(at 255.27 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3128,6 +3139,7 @@
 	(hierarchical_label "LOUT(W)"
 		(shape output)
 		(at 255.27 113.03 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

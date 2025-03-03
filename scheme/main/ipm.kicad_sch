@@ -498,6 +498,126 @@
 				)
 			)
 		)
+		(symbol "power:+15V"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+15V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+15V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+15V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+15V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+VDC"
 			(power)
 			(pin_numbers hide)
@@ -910,6 +1030,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 139.7) (xy 153.67 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31868550-4400-464f-b52d-cee35a2cdbeb")
+	)
+	(wire
+		(pts
 			(xy 200.66 119.38) (xy 212.09 119.38)
 		)
 		(stroke
@@ -1090,6 +1220,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 134.62) (xy 157.48 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9678c635-9c19-45bf-8315-3df105cbd5f9")
+	)
+	(wire
+		(pts
 			(xy 148.59 129.54) (xy 170.18 129.54)
 		)
 		(stroke
@@ -1107,6 +1247,16 @@
 			(type default)
 		)
 		(uuid "9acadab6-cc6e-404d-b82a-42f22c32b5c6")
+	)
+	(wire
+		(pts
+			(xy 153.67 137.16) (xy 153.67 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cb786e6-e48c-43f2-be9b-5b4d23754d85")
 	)
 	(wire
 		(pts
@@ -1270,6 +1420,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 134.62) (xy 157.48 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc80f3d0-4447-42d0-8920-1ff5c4ead0fd")
+	)
+	(wire
+		(pts
 			(xy 205.74 137.16) (xy 205.74 156.21)
 		)
 		(stroke
@@ -1372,6 +1532,7 @@
 	(hierarchical_label "HIN(U)"
 		(shape input)
 		(at 114.3 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1383,6 +1544,7 @@
 	(hierarchical_label "Fault"
 		(shape output)
 		(at 203.2 181.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1394,6 +1556,7 @@
 	(hierarchical_label "W"
 		(shape output)
 		(at 212.09 124.46 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1405,6 +1568,7 @@
 	(hierarchical_label "LIN(U)"
 		(shape input)
 		(at 114.3 124.46 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1416,6 +1580,7 @@
 	(hierarchical_label "LIN(V)"
 		(shape input)
 		(at 114.3 127 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1427,6 +1592,7 @@
 	(hierarchical_label "LIN(W)"
 		(shape input)
 		(at 114.3 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1438,6 +1604,7 @@
 	(hierarchical_label "V"
 		(shape output)
 		(at 212.09 119.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1449,6 +1616,7 @@
 	(hierarchical_label "U"
 		(shape output)
 		(at 212.09 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1460,6 +1628,7 @@
 	(hierarchical_label "HIN(V)"
 		(shape input)
 		(at 114.3 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1471,6 +1640,7 @@
 	(hierarchical_label "HIN(W)"
 		(shape input)
 		(at 114.3 121.92 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1482,6 +1652,7 @@
 	(hierarchical_label "Temp"
 		(shape output)
 		(at 203.2 184.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1615,6 +1786,72 @@
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+15V")
+		(at 153.67 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ecbe278-9967-43db-b840-b16dd79792dd")
+		(property "Reference" "#PWR084"
+			(at 153.67 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+15V"
+			(at 153.67 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+15V\""
+			(at 153.67 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5315cde6-2a99-4504-bf8f-334b9e8d96dc")
+		)
+		(instances
+			(project ""
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)

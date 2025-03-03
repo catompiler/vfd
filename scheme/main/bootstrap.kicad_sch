@@ -1393,6 +1393,7 @@
 	(hierarchical_label "BS-"
 		(shape output)
 		(at 156.21 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1404,6 +1405,7 @@
 	(hierarchical_label "BS+"
 		(shape output)
 		(at 156.21 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1422,7 +1424,7 @@
 		(dnp no)
 		(uuid "14665105-393e-4076-8370-c926823488c5")
 		(property "Reference" "C12"
-			(at 134.62 77.8509 0)
+			(at 134.366 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1430,8 +1432,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68uF"
-			(at 134.62 80.3909 0)
+		(property "Value" "47uF"
+			(at 134.366 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1439,7 +1441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
+		(property "Footprint" "Capacitor_SMD:C_Elec_5x5.8"
 			(at 131.7752 83.82 0)
 			(effects
 				(font
@@ -1448,7 +1450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://doc.platan.ru/pdf/datasheets/panasonic/FK_V.pdf"
+		(property "Datasheet" "https://www.platan.ru/cgi-bin/qwery.pl/id=2015355001"
 			(at 130.81 80.01 0)
 			(effects
 				(font

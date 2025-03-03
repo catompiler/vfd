@@ -800,8 +800,8 @@
 		)
 	)
 	(sheet
-		(at 85.09 87.63)
-		(size 17.78 22.86)
+		(at 146.05 133.35)
+		(size 22.86 25.4)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -812,7 +812,7 @@
 		)
 		(uuid "f37982a3-337b-429f-abb6-a84102507a70")
 		(property "Sheetname" "Power"
-			(at 85.09 86.9184 0)
+			(at 146.05 132.6384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -821,7 +821,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 85.09 111.0746 0)
+			(at 146.05 159.3346 0)
 			(effects
 				(font
 					(size 1.27 1.27)

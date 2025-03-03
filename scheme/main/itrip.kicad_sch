@@ -1679,6 +1679,7 @@
 	(hierarchical_label "N"
 		(shape output)
 		(at 43.18 124.46 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1690,6 +1691,7 @@
 	(hierarchical_label "IW"
 		(shape input)
 		(at 43.18 107.95 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1701,6 +1703,7 @@
 	(hierarchical_label "IU"
 		(shape input)
 		(at 43.18 82.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1712,6 +1715,7 @@
 	(hierarchical_label "ITRIP"
 		(shape output)
 		(at 200.66 100.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1723,6 +1727,7 @@
 	(hierarchical_label "IV"
 		(shape input)
 		(at 43.18 95.25 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
