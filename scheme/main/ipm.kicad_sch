@@ -5,6 +5,142 @@
 	(uuid "7055f987-f852-4b7e-a14d-1d34403606e1")
 	(paper "A3")
 	(lib_symbols
+		(symbol "Device:C"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "main:IGCM06F60GA"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -918,6 +1054,12 @@
 			)
 		)
 	)
+	(junction
+		(at 205.74 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c13b55c0-dcb5-4718-a6b4-07c4aa8c32d8")
+	)
 	(wire
 		(pts
 			(xy 208.28 132.08) (xy 208.28 153.67)
@@ -930,7 +1072,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 91.44) (xy 205.74 101.6)
+			(xy 205.74 91.44) (xy 205.74 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1017,6 +1159,16 @@
 			(type default)
 		)
 		(uuid "26b4b001-af21-41d7-a046-a40fb81e5f39")
+	)
+	(wire
+		(pts
+			(xy 215.9 105.41) (xy 215.9 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2afacb6b-b9d6-4d14-ad8d-7e4117a728d4")
 	)
 	(wire
 		(pts
@@ -1230,6 +1382,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 96.52) (xy 215.9 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9892b09d-4967-46c1-b8f4-6d7568a4e03d")
+	)
+	(wire
+		(pts
 			(xy 148.59 129.54) (xy 170.18 129.54)
 		)
 		(stroke
@@ -1410,6 +1572,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 97.79) (xy 215.9 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d18c66ba-c38c-49d4-97f0-9863143a82f3")
+	)
+	(wire
+		(pts
 			(xy 195.58 181.61) (xy 203.2 181.61)
 		)
 		(stroke
@@ -1477,6 +1649,16 @@
 			(type default)
 		)
 		(uuid "e76db77c-ed7a-4b31-9524-a85584288024")
+	)
+	(wire
+		(pts
+			(xy 205.74 96.52) (xy 205.74 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9ce55c4-ddcc-42c7-a151-5f156b98dfee")
 	)
 	(wire
 		(pts
@@ -2052,6 +2234,141 @@
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
 					(reference "#PWR2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 215.9 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a20177e0-3569-4a4b-b015-bea081ebaffb")
+		(property "Reference" "C83"
+			(at 219.71 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5uF"
+			(at 219.71 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Rect_L31.5mm_W15.0mm_P27.50mm_MKS4"
+			(at 216.8652 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://doc.platan.ru/pdf/datasheets/epcos/MKP_B32774_778-525242.pdf"
+			(at 215.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "B32774D8505K"
+			(at 215.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "55ba1ff9-110d-4afa-b4d2-7e283c6e077d")
+		)
+		(pin "1"
+			(uuid "406fde97-b24a-4266-9032-d4de4b74b813")
+		)
+		(instances
+			(project ""
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(reference "C83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 215.9 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce43a98a-5b3f-4f3c-9a6c-9785bfd6978e")
+		(property "Reference" "#PWR085"
+			(at 215.9 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 215.773 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 215.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 215.9 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4de63bad-308e-4821-b6b6-6e82eef80107")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
