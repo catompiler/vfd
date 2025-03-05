@@ -801,7 +801,7 @@
 	)
 	(sheet
 		(at 146.05 133.35)
-		(size 22.86 25.4)
+		(size 22.86 5.08)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -821,7 +821,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 146.05 159.3346 0)
+			(at 146.05 139.0146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
