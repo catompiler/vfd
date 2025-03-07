@@ -474,6 +474,10 @@
     [
       "f37982a3-337b-429f-abb6-a84102507a70",
       "Power"
+    ],
+    [
+      "529e7c08-d17e-4397-8cce-ee2a0c13f81d",
+      "Rectifier_dc"
     ]
   ],
   "text_variables": {}

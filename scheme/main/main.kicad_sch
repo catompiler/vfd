@@ -420,6 +420,44 @@
 		)
 	)
 	(sheet
+		(at 76.2 71.12)
+		(size 25.4 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "529e7c08-d17e-4397-8cce-ee2a0c13f81d")
+		(property "Sheetname" "Rectifier_dc"
+			(at 76.2 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rectifier_dc.kicad_sch"
+			(at 76.2 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 223.52 85.09)
 		(size 16.51 5.08)
 		(fields_autoplaced yes)
