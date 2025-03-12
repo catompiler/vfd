@@ -478,6 +478,10 @@
     [
       "529e7c08-d17e-4397-8cce-ee2a0c13f81d",
       "Rectifier_dc"
+    ],
+    [
+      "95789226-49ac-48bd-87d5-f3fb8512f467",
+      "pwr_term"
     ]
   ],
   "text_variables": {}

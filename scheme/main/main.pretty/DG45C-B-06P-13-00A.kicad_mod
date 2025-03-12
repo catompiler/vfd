@@ -1,0 +1,182 @@
+(footprint "DG45C-B-06P-13-00A"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "terminal block Metz Connect Type703_RT10N02HGLU, 2 pins, pitch 9.52mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317031_RT10NxxHGLU_OFF-022897S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect")
+	(tags "THT terminal block Metz Connect Type703_RT10N02HGLU pitch 9.52mm size 19x12.5mm^2 drill 1.3mm pad 2.6mm")
+	(property "Reference" "REF**"
+		(at 25.4 -10.16 0)
+		(layer "F.SilkS")
+		(uuid "9dd681cd-faf8-448b-97ec-21ac94835cb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DG45C-B-06P-13-00A"
+		(at 25.4 10.16 0)
+		(layer "F.Fab")
+		(uuid "73051503-1354-4064-8df8-dd48aeda6883")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 10.23 -33.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40d00b1a-17a7-4338-8ce3-5fa08ebb425d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 10.23 -33.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62d67471-4ea3-4a87-bb6f-314c2ecc97fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 10.23 -33.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bdadae49-af15-49da-99a9-2c42e1adc06a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6 7.71)
+		(end -6 8.45)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0256ea65-14ca-4ede-80b0-853b8245b69c")
+	)
+	(fp_line
+		(start -6 8.45)
+		(end -5.5 8.45)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb8ba297-950a-4feb-a2be-d5afef947acc")
+	)
+	(fp_rect
+		(start -6.2 -8.65)
+		(end 59.4 8.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "48659874-3948-4109-bae8-67c9ec0c6e7e")
+	)
+	(fp_rect
+		(start -5.7 -8.15)
+		(end 58.9 8.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "4e013cef-5e10-4b38-8555-3b96f57c4da2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 25.4 5.08 0)
+		(layer "F.Fab")
+		(uuid "d31754d3-15b9-45d5-9e62-559b0fe47019")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 4.2 4.2)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ac57f235-dc1c-466b-b168-f16b70e4dcf6")
+	)
+	(pad "2" thru_hole circle
+		(at 9.5 0)
+		(size 4.2 4.2)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "520d2bc9-f9b3-4053-969d-ccc500ae8a8a")
+	)
+	(pad "3" thru_hole circle
+		(at 19 0)
+		(size 4.2 4.2)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5fcc2605-0b78-49cd-a9df-0e3793968b9f")
+	)
+	(pad "4" thru_hole circle
+		(at 28.5 0)
+		(size 4.2 4.2)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ca365efd-f5af-43f3-a638-c5e110566c2b")
+	)
+	(pad "5" thru_hole circle
+		(at 38 0)
+		(size 4.2 4.2)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e13aca87-de8a-4e25-9332-161a6bd5820b")
+	)
+	(pad "6" thru_hole circle
+		(at 47.5 0)
+		(size 4.2 4.2)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "40385029-0597-44cc-abf5-a421ec7c4ef0")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type703_RT10N02HGLU_1x02_P9.52mm_Horizontal.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
