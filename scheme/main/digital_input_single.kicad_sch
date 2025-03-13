@@ -1963,7 +1963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5e8c434-e413-4905-8cc3-dc9139b75560")
-		(property "Reference" "D11"
+		(property "Reference" "D13"
 			(at 161.29 87.63 0)
 			(effects
 				(font
