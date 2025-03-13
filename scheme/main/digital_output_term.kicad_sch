@@ -1,0 +1,533 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6efef003-094b-4423-a8fd-19a2f80b98ee")
+	(paper "A4")
+	(lib_symbols
+		(symbol "main:DG142V-06P_5.08"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "X2"
+				(at -1.27 -6.3499 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "DG142V-06P_5.08"
+				(at -1.27 -8.8899 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "main:DG142V-06P-5.08_V1.0"
+				(at 8.382 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.platan.ru/cgi-bin/qwery.pl/id=2010019306"
+				(at 9.398 -23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "DG142V-5.08-06P"
+				(at 9.144 -17.018 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "DG142V-06P_5.08_1_0"
+				(rectangle
+					(start 0 0)
+					(end 2.54 -15.24)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 5.08 -1.27 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -3.81 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -6.35 180)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -8.89 180)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -11.43 180)
+					(length 2.54)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -13.97 180)
+					(length 2.54)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 133.35 81.28) (xy 149.86 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c12c85c-6380-4d98-8be8-8fc5725d3c92")
+	)
+	(wire
+		(pts
+			(xy 152.4 93.98) (xy 152.4 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2622ad91-e0ea-414f-9652-406f5d7dc843")
+	)
+	(wire
+		(pts
+			(xy 133.35 91.44) (xy 149.86 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28f87b0a-175e-4a01-a789-c6cdf153c31f")
+	)
+	(wire
+		(pts
+			(xy 133.35 83.82) (xy 146.05 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2afff551-15b2-4c70-969a-51ace87701af")
+	)
+	(wire
+		(pts
+			(xy 149.86 91.44) (xy 149.86 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b838b6e-3fdc-4700-85dc-a2ae9f9f1f12")
+	)
+	(wire
+		(pts
+			(xy 146.05 83.82) (xy 146.05 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "518e2791-e51e-48e9-bf27-36437e744a71")
+	)
+	(wire
+		(pts
+			(xy 149.86 82.55) (xy 160.02 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc64f98-3618-4394-8973-69b2af462f82")
+	)
+	(wire
+		(pts
+			(xy 152.4 92.71) (xy 160.02 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a79a2a39-5074-4a7d-8aed-def3b6457d40")
+	)
+	(wire
+		(pts
+			(xy 152.4 78.74) (xy 152.4 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab6d34b0-e0b2-480f-8e14-fcd49111652c")
+	)
+	(wire
+		(pts
+			(xy 133.35 78.74) (xy 152.4 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9796f9d-307c-4f84-8394-014fdf67806c")
+	)
+	(wire
+		(pts
+			(xy 149.86 90.17) (xy 160.02 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca1cb726-e8de-4db2-9257-a81343cda9bc")
+	)
+	(wire
+		(pts
+			(xy 133.35 88.9) (xy 146.05 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbfc5b9a-9d85-43fc-bf3f-1b22aeba0027")
+	)
+	(wire
+		(pts
+			(xy 133.35 93.98) (xy 152.4 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccebe67b-b7db-4df9-bd31-3583fd83eb12")
+	)
+	(wire
+		(pts
+			(xy 152.4 80.01) (xy 160.02 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccef3b5f-110b-44ca-b4f8-0451e012c552")
+	)
+	(wire
+		(pts
+			(xy 146.05 87.63) (xy 160.02 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d21a694c-ee63-4716-a96e-3e926cc78757")
+	)
+	(wire
+		(pts
+			(xy 149.86 81.28) (xy 149.86 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d56691e8-6f00-4532-850d-f847fb850728")
+	)
+	(wire
+		(pts
+			(xy 146.05 88.9) (xy 146.05 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2b78692-f4cb-4db6-ad35-4514a8fc5f53")
+	)
+	(wire
+		(pts
+			(xy 146.05 85.09) (xy 160.02 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8443f64-f862-4213-9b0e-df9a022dfd7d")
+	)
+	(hierarchical_label "DO2_NC"
+		(shape input)
+		(at 133.35 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "07b018f0-5917-4612-9685-0214e88bd7f7")
+	)
+	(hierarchical_label "DO1_NC"
+		(shape input)
+		(at 133.35 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "756b3d8c-24f5-465b-a983-c58cdba09584")
+	)
+	(hierarchical_label "DO1_COM"
+		(shape input)
+		(at 133.35 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "887783d7-3a76-48aa-a4c0-cb9e44d83a6f")
+	)
+	(hierarchical_label "DO2_NO"
+		(shape input)
+		(at 133.35 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bfefbd00-acf7-4f53-8d44-87d22c607671")
+	)
+	(hierarchical_label "DO1_NO"
+		(shape input)
+		(at 133.35 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dbbd5e91-4af5-40f7-9db3-099376db49f2")
+	)
+	(hierarchical_label "DO2_COM"
+		(shape input)
+		(at 133.35 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ee883e80-44eb-4555-b48a-3f70866525e0")
+	)
+	(symbol
+		(lib_id "main:DG142V-06P_5.08")
+		(at 165.1 78.74 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2b173a26-ce05-417a-9769-3527089ba93b")
+		(property "Reference" "X2"
+			(at 166.37 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "DG142V-06P_5.08"
+			(at 166.37 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "main:DG142V-06P-5.08_V1.0"
+			(at 156.718 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.platan.ru/cgi-bin/qwery.pl/id=2010019306"
+			(at 155.702 102.616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "DG142V-5.08-06P"
+			(at 155.956 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "c6464252-819d-4ee6-b746-a68cec66f592")
+		)
+		(pin "2"
+			(uuid "301dd433-3122-4fca-a95b-aa5e60cfc0f2")
+		)
+		(pin "5"
+			(uuid "54e8e159-53d6-458e-9c32-91c46d73ea0b")
+		)
+		(pin "1"
+			(uuid "60f34751-59b7-4432-b4c8-5f30f1a7fe8e")
+		)
+		(pin "6"
+			(uuid "290ebb02-bd6a-472c-b20a-b6e210129c01")
+		)
+		(pin "3"
+			(uuid "1178262a-2d22-4fb4-a0cd-9967a856a2a6")
+		)
+		(instances
+			(project ""
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5fa6ede8-f1b3-46e0-b9d4-c21c084d88c4"
+					(reference "X2")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

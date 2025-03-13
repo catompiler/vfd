@@ -646,8 +646,8 @@
 		)
 		(uuid "3e7137b2-23aa-4e7a-ae81-add27697d3dd")
 	)
-	(hierarchical_label "COM-"
-		(shape output)
+	(hierarchical_label "COM"
+		(shape input)
 		(at 163.83 93.98 0)
 		(fields_autoplaced yes)
 		(effects
@@ -659,7 +659,7 @@
 		(uuid "436a9aa5-4134-4f21-86e0-89f1350d7336")
 	)
 	(hierarchical_label "DI2-"
-		(shape input)
+		(shape output)
 		(at 163.83 72.39 0)
 		(fields_autoplaced yes)
 		(effects
@@ -694,7 +694,7 @@
 		)
 		(uuid "619a4524-89d7-4953-9d70-16230cc2efd8")
 	)
-	(hierarchical_label "COM+"
+	(hierarchical_label "24V"
 		(shape output)
 		(at 163.83 57.15 0)
 		(fields_autoplaced yes)
@@ -707,7 +707,7 @@
 		(uuid "6baf9de6-77d7-42a8-874c-39b452639708")
 	)
 	(hierarchical_label "DI4-"
-		(shape input)
+		(shape output)
 		(at 163.83 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -731,7 +731,7 @@
 		(uuid "776ddccd-a295-4ac9-8e53-be38d88cf69b")
 	)
 	(hierarchical_label "DI1-"
-		(shape input)
+		(shape output)
 		(at 163.83 64.77 0)
 		(fields_autoplaced yes)
 		(effects
@@ -767,7 +767,7 @@
 		(uuid "d96a70f2-b506-4c23-8e6d-2e1f3a5bec59")
 	)
 	(hierarchical_label "DI3-"
-		(shape input)
+		(shape output)
 		(at 163.83 81.28 0)
 		(fields_autoplaced yes)
 		(effects
@@ -952,7 +952,7 @@
 				(justify left top)
 			)
 		)
-		(pin "in-" input
+		(pin "in-" output
 			(at 125.73 85.09 0)
 			(effects
 				(font
@@ -1020,7 +1020,7 @@
 				(justify left top)
 			)
 		)
-		(pin "in-" input
+		(pin "in-" output
 			(at 125.73 68.58 0)
 			(effects
 				(font
@@ -1088,7 +1088,7 @@
 				(justify left top)
 			)
 		)
-		(pin "in-" input
+		(pin "in-" output
 			(at 125.73 53.34 0)
 			(effects
 				(font
@@ -1156,7 +1156,7 @@
 				(justify left top)
 			)
 		)
-		(pin "in-" input
+		(pin "in-" output
 			(at 125.73 101.6 0)
 			(effects
 				(font

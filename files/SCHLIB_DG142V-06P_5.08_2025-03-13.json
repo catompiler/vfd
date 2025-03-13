@@ -1,0 +1,53 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.48",
+    "c_para": {
+      "package": "DG142V_5.08_06P",
+      "name": "DG142V-06P_5.08",
+      "pre": "X?",
+      "Manufacturer Part": "DG142V-5.08-06P",
+      "Contributor": "alexintras",
+      "Supplier Part": "",
+      "Supplier": ""
+    },
+    "x": 400,
+    "y": 300,
+    "puuid": "eb9bc3d2c92c445ebf5efc024bf72c85",
+    "uuid": "91b06ee7a6f8490c8618956a812c54b6",
+    "utime": 1619263743,
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#999999~5~1000~1000~line~5~pixel~1~400~300",
+  "shape": [
+    "P~show~0~1~485~305~0~gge81~0^^485~305^^M 485 305 h -10~#880000^^1~473~308~0~1~end~Times New Roman~5.5pt~#0000FF^^0~475~304~0~1~start~Times New Roman~5.5pt~#0000FF^^0~478~305^^0~M 475 302 L 472 305 L 475 308",
+    "P~show~0~2~485~315~0~gge88~0^^485~315^^M 485 315 h -10~#880000^^1~473~318~0~2~end~Times New Roman~5.5pt~#0000FF^^0~475~314~0~2~start~Times New Roman~5.5pt~#0000FF^^0~478~315^^0~M 475 312 L 472 315 L 475 318",
+    "PL~465 360 465 300~#666666~1~0~none~gge109~0",
+    "PL~400 310 465 310~#666666~1~0~none~gge110~0",
+    "T~L~411~307.484375~0~#0000FF~Times New Roman~5.5pt~~~~comment~№1~1~start~gge113~0~pinpart",
+    "T~L~411~317.49~0~#0000FF~Times New Roman~5.5pt~~~~comment~№2~1~start~gge115~0~pinpart",
+    "R~400~300~~~75~60~#880000~1~0~none~gge121~0~",
+    "T~L~411.171875~327.578125~0~#0000FF~Times New Roman~5.5pt~~~~comment~№3~1~start~gge124~0~pinpart",
+    "PL~400 320 465 320~#666666~1~0~none~gge127~0",
+    "P~show~0~3~485~325~0~gge129~0^^485~325^^M 485 325 h -10~#880000^^1~473~328~0~3~end~Times New Roman~5.5pt~#0000FF^^0~475~324~0~3~start~Times New Roman~5.5pt~#0000FF^^0~478~325^^0~M 475 322 L 472 325 L 475 328",
+    "T~L~411.251875~337.466875~0~#0000FF~Times New Roman~5.5pt~~~~comment~№4~1~start~gge132~0~pinpart",
+    "T~L~411.17375~347.57625~0~#0000FF~Times New Roman~5.5pt~~~~comment~№5~1~start~gge135~0~pinpart",
+    "T~L~411.17375~357.57625~0~#0000FF~Times New Roman~5.5pt~~~~comment~№6~1~start~gge138~0~pinpart",
+    "P~show~0~4~485~335~0~gge147~0^^485~335^^M 485 335 h -10~#880000^^1~473~338~0~4~end~Times New Roman~5.5pt~#0000FF^^0~475~334~0~4~start~Times New Roman~5.5pt~#0000FF^^0~478~335^^0~M 475 332 L 472 335 L 475 338",
+    "P~show~0~5~485~345~0~gge155~0^^485~345^^M 485 345 h -10~#880000^^1~473~348~0~5~end~Times New Roman~5.5pt~#0000FF^^0~475~344~0~5~start~Times New Roman~5.5pt~#0000FF^^0~478~345^^0~M 475 342 L 472 345 L 475 348",
+    "P~show~0~6~485~355~0~gge163~0^^485~355^^M 485 355 h -10~#880000^^1~473~358~0~6~end~Times New Roman~5.5pt~#0000FF^^0~475~354~0~6~start~Times New Roman~5.5pt~#0000FF^^0~478~355^^0~M 475 352 L 472 355 L 475 358",
+    "PL~400 330 465 330~#666666~1~0~none~gge187~0",
+    "PL~400 340 465 340~#666666~1~0~none~gge189~0",
+    "PL~400 350 465 350~#666666~1~0~none~gge191~0",
+    "PL~400 360 465 360~#666666~1~0~none~gge193~0"
+  ],
+  "BBox": {
+    "x": 400,
+    "y": 300,
+    "width": 86,
+    "height": 60
+  },
+  "colors": {}
+}

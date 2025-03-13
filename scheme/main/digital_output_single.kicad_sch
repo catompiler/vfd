@@ -1522,7 +1522,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d572373-8d95-4460-a0d9-0ff576bf6644")
-		(property "Reference" "D9"
+		(property "Reference" "D10"
 			(at 116.078 83.058 90)
 			(effects
 				(font
@@ -1598,7 +1598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27000de5-dde2-457e-9947-87a9685b0a4d")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0106"
 			(at 142.24 115.57 0)
 			(effects
 				(font
@@ -1735,6 +1735,10 @@
 					(reference "K3")
 					(unit 1)
 				)
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/7d40f93b-18df-4406-a354-a8dac5c853e3/97aa0c6a-3040-4632-b51b-83025e12675d"
+					(reference "K?")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -1747,7 +1751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ddc40dd0-76bb-452c-ad25-12165ccf18a3")
-		(property "Reference" "R85"
+		(property "Reference" "R86"
 			(at 122.682 107.188 90)
 			(effects
 				(font
@@ -1821,7 +1825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de0630da-ee78-41cf-806b-d191c9790c96")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0105"
 			(at 142.24 73.66 0)
 			(effects
 				(font
@@ -1891,7 +1895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea683ec8-a44e-44dc-a240-de1ead471d06")
-		(property "Reference" "Q3"
+		(property "Reference" "Q4"
 			(at 144.78 100.3299 0)
 			(effects
 				(font

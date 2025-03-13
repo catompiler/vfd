@@ -1,4 +1,4 @@
-24198024615532337
+24203250196710695
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97969,8 +97969,29 @@ DG45C-B-06P-13-00A
 terminal block Metz Connect Type703_RT10N02HGLU, 2 pins, pitch 9.52mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317031_RT10NxxHGLU_OFF-022897S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
 THT terminal block Metz Connect Type703_RT10N02HGLU pitch 9.52mm size 19x12.5mm^2 drill 1.3mm pad 2.6mm
 0
-2
-2
+6
+6
+main
+DG141V-2.54-08P
+
+
+0
+16
+8
+main
+DG142V-06P-5.08_V1.0
+
+
+0
+12
+6
+main
+DG142V-08P-5.08_V1.0
+
+
+0
+16
+8
 main
 Diode_Bridge_Vishay_GSIB-5S
 Diotec 32x5.6x17mm rectifier package, 7.5mm/10mm pitch, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700.pdf

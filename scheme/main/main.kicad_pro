@@ -514,6 +514,14 @@
     [
       "3b4724af-5e0f-4268-8add-081fe7c242d8",
       "DOUT2"
+    ],
+    [
+      "5fa6ede8-f1b3-46e0-b9d4-c21c084d88c4",
+      "digital_output_term"
+    ],
+    [
+      "4cfe507b-a3ab-4a86-b86e-4fb85889813e",
+      "digital_input_term"
     ]
   ],
   "text_variables": {}
