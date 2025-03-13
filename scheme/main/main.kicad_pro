@@ -482,6 +482,38 @@
     [
       "95789226-49ac-48bd-87d5-f3fb8512f467",
       "pwr_term"
+    ],
+    [
+      "bedea6de-a196-4917-ba70-c071156ad9b9",
+      "digital_inputs"
+    ],
+    [
+      "a9420b45-d901-4429-a945-3bcdca919a43",
+      "DI1"
+    ],
+    [
+      "9dc33930-f682-4ed1-a57d-b39bd6b7930d",
+      "DI2"
+    ],
+    [
+      "31162724-615b-46ba-8c0e-f604e9ec35b9",
+      "DI3"
+    ],
+    [
+      "bd001503-3ad8-4979-953f-3e7ea894eb19",
+      "DI4"
+    ],
+    [
+      "7d40f93b-18df-4406-a354-a8dac5c853e3",
+      "digital_outputs"
+    ],
+    [
+      "97aa0c6a-3040-4632-b51b-83025e12675d",
+      "DOUT1"
+    ],
+    [
+      "3b4724af-5e0f-4268-8add-081fe7c242d8",
+      "DOUT2"
     ]
   ],
   "text_variables": {}
