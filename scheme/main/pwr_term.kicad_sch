@@ -528,7 +528,6 @@
 	(hierarchical_label "U"
 		(shape input)
 		(at 138.43 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -540,7 +539,6 @@
 	(hierarchical_label "N"
 		(shape output)
 		(at 176.53 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -552,7 +550,6 @@
 	(hierarchical_label "PE"
 		(shape output)
 		(at 176.53 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -564,7 +561,6 @@
 	(hierarchical_label "L"
 		(shape output)
 		(at 176.53 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -576,7 +572,6 @@
 	(hierarchical_label "W"
 		(shape input)
 		(at 138.43 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -588,7 +583,6 @@
 	(hierarchical_label "V"
 		(shape input)
 		(at 138.43 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

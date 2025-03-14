@@ -7420,6 +7420,7 @@
 		)
 	)
 	(symbol "KIT_XMC71_EVK_LITE_V1"
+		(pin_numbers hide)
 		(pin_names
 			(offset 0)
 		)

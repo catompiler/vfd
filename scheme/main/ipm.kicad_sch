@@ -1790,7 +1790,6 @@
 	(hierarchical_label "HIN(U)"
 		(shape input)
 		(at 114.3 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1802,7 +1801,6 @@
 	(hierarchical_label "Fault"
 		(shape output)
 		(at 203.2 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1814,7 +1812,6 @@
 	(hierarchical_label "W"
 		(shape output)
 		(at 212.09 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1826,7 +1823,6 @@
 	(hierarchical_label "LIN(U)"
 		(shape input)
 		(at 114.3 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1838,7 +1834,6 @@
 	(hierarchical_label "LIN(V)"
 		(shape input)
 		(at 114.3 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1850,7 +1845,6 @@
 	(hierarchical_label "LIN(W)"
 		(shape input)
 		(at 114.3 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1862,7 +1856,6 @@
 	(hierarchical_label "V"
 		(shape output)
 		(at 212.09 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1874,7 +1867,6 @@
 	(hierarchical_label "U"
 		(shape output)
 		(at 212.09 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1886,7 +1878,6 @@
 	(hierarchical_label "HIN(V)"
 		(shape input)
 		(at 114.3 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1898,7 +1889,6 @@
 	(hierarchical_label "HIN(W)"
 		(shape input)
 		(at 114.3 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1910,7 +1900,6 @@
 	(hierarchical_label "Temp"
 		(shape output)
 		(at 203.2 184.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2395,7 +2384,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "32b3c817-68f7-45e1-9258-7a9582664898")
 		(property "Sheetname" "Bootstrap U"
@@ -2453,7 +2442,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "80738a43-c598-4f09-a725-55d3789b6a7d")
 		(property "Sheetname" "Vfo"
@@ -2521,7 +2510,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "9cc54317-9719-471d-99c6-61bdaec9c6c9")
 		(property "Sheetname" "itrip"
@@ -2599,7 +2588,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "9ccbc314-e027-42d4-9a9d-e9d747352443")
 		(property "Sheetname" "control_isol"
@@ -2757,7 +2746,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "c5b7b692-dec4-4ffa-a62b-cf474dae3f6f")
 		(property "Sheetname" "Bootstrap W"
@@ -2815,7 +2804,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "e7c7cf02-134e-4d37-ae3c-dbc1ef5b400e")
 		(property "Sheetname" "Bootstrap V"

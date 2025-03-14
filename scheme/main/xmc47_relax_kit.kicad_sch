@@ -2435,7 +2435,6 @@
 	(hierarchical_label "Iu"
 		(shape input)
 		(at 46.99 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2447,7 +2446,6 @@
 	(hierarchical_label "Iw"
 		(shape input)
 		(at 46.99 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2459,7 +2457,6 @@
 	(hierarchical_label "di4"
 		(shape input)
 		(at 46.99 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2471,7 +2468,6 @@
 	(hierarchical_label "can_rx"
 		(shape output)
 		(at 46.99 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2483,7 +2479,6 @@
 	(hierarchical_label "Iv"
 		(shape input)
 		(at 46.99 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2495,7 +2490,6 @@
 	(hierarchical_label "do1"
 		(shape output)
 		(at 242.57 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2507,7 +2501,6 @@
 	(hierarchical_label "pwm_vl"
 		(shape output)
 		(at 242.57 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2519,7 +2512,6 @@
 	(hierarchical_label "di1"
 		(shape input)
 		(at 46.99 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2531,7 +2523,6 @@
 	(hierarchical_label "do2"
 		(shape output)
 		(at 242.57 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2543,7 +2534,6 @@
 	(hierarchical_label "DCrelay"
 		(shape output)
 		(at 242.57 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2555,7 +2545,6 @@
 	(hierarchical_label "pwm_ul"
 		(shape output)
 		(at 242.57 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2567,7 +2556,6 @@
 	(hierarchical_label "Temp"
 		(shape input)
 		(at 46.99 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2579,7 +2567,6 @@
 	(hierarchical_label "pwm_vh"
 		(shape output)
 		(at 242.57 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2591,7 +2578,6 @@
 	(hierarchical_label "pwm_wl"
 		(shape output)
 		(at 242.57 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2603,7 +2589,6 @@
 	(hierarchical_label "di2"
 		(shape input)
 		(at 46.99 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2615,7 +2600,6 @@
 	(hierarchical_label "pwm_uh"
 		(shape output)
 		(at 242.57 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2627,7 +2611,6 @@
 	(hierarchical_label "pwm_wh"
 		(shape output)
 		(at 242.57 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2639,7 +2622,6 @@
 	(hierarchical_label "Trip"
 		(shape input)
 		(at 46.99 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2651,7 +2633,6 @@
 	(hierarchical_label "di3"
 		(shape input)
 		(at 46.99 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2663,7 +2644,6 @@
 	(hierarchical_label "Udc"
 		(shape input)
 		(at 46.99 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2675,7 +2655,6 @@
 	(hierarchical_label "can_tx"
 		(shape input)
 		(at 46.99 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -7420,7 +7420,6 @@
 		)
 	)
 	(symbol "KIT_XMC71_EVK_LITE_V1"
-		(pin_numbers hide)
 		(pin_names
 			(offset 0)
 		)
@@ -10104,8 +10103,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 -9.017)
-				(end 0 -8.763)
+				(start 1.27 -8.763)
+				(end 0 -9.017)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10115,8 +10114,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 -6.477)
-				(end 0 -6.223)
+				(start 1.27 -6.223)
+				(end 0 -6.477)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10126,8 +10125,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 -3.937)
-				(end 0 -3.683)
+				(start 1.27 -3.683)
+				(end 0 -3.937)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10137,8 +10136,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 -1.397)
-				(end 0 -1.143)
+				(start 1.27 -1.143)
+				(end 0 -1.397)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10148,8 +10147,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 1.143)
-				(end 0 1.397)
+				(start 1.27 1.397)
+				(end 0 1.143)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10159,8 +10158,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 3.683)
-				(end 0 3.937)
+				(start 1.27 3.937)
+				(end 0 3.683)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10170,8 +10169,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 6.223)
-				(end 0 6.477)
+				(start 1.27 6.477)
+				(end 0 6.223)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10181,8 +10180,8 @@
 				)
 			)
 			(rectangle
-				(start 1.27 8.763)
-				(end 0 9.017)
+				(start 1.27 9.017)
+				(end 0 8.763)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -10192,9 +10191,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -8.89 180)
+				(at 5.08 8.89 180)
 				(length 3.81)
-				(name "Pin_1"
+				(name "EXT_P6_0"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10210,9 +10209,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -6.35 180)
+				(at 5.08 6.35 180)
 				(length 3.81)
-				(name "Pin_2"
+				(name "A1_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10228,9 +10227,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -3.81 180)
+				(at 5.08 3.81 180)
 				(length 3.81)
-				(name "Pin_3"
+				(name "A2_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10246,9 +10245,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -1.27 180)
+				(at 5.08 1.27 180)
 				(length 3.81)
-				(name "Pin_4"
+				(name "A3_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10264,9 +10263,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 1.27 180)
+				(at 5.08 -1.27 180)
 				(length 3.81)
-				(name "Pin_5"
+				(name "P12_4"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10282,9 +10281,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 3.81 180)
+				(at 5.08 -3.81 180)
 				(length 3.81)
-				(name "Pin_6"
+				(name "P13_7"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10300,9 +10299,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 6.35 180)
+				(at 5.08 -6.35 180)
 				(length 3.81)
-				(name "Pin_7"
+				(name "P14_2"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10318,9 +10317,9 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 8.89 180)
+				(at 5.08 -8.89 180)
 				(length 3.81)
-				(name "Pin_8"
+				(name "P14_3"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10462,7 +10461,7 @@
 			(pin passive line
 				(at -5.08 -11.43 0)
 				(length 3.81)
-				(name "Pin_1"
+				(name "D8_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10480,7 +10479,7 @@
 			(pin passive line
 				(at -5.08 11.43 0)
 				(length 3.81)
-				(name "Pin_10"
+				(name "HDR_I2C_SCL"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10498,7 +10497,7 @@
 			(pin passive line
 				(at -5.08 -8.89 0)
 				(length 3.81)
-				(name "Pin_2"
+				(name "D9_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10516,7 +10515,7 @@
 			(pin passive line
 				(at -5.08 -6.35 0)
 				(length 3.81)
-				(name "Pin_3"
+				(name "XMC_SPI_CS0"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10534,7 +10533,7 @@
 			(pin passive line
 				(at -5.08 -3.81 0)
 				(length 3.81)
-				(name "Pin_4"
+				(name "XMC_SPI_MOSI"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10552,7 +10551,7 @@
 			(pin passive line
 				(at -5.08 -1.27 0)
 				(length 3.81)
-				(name "Pin_5"
+				(name "XMC_SPI_MISO"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10570,7 +10569,7 @@
 			(pin passive line
 				(at -5.08 1.27 0)
 				(length 3.81)
-				(name "Pin_6"
+				(name "XMC_SPI_CLK"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10588,7 +10587,7 @@
 			(pin passive line
 				(at -5.08 3.81 0)
 				(length 3.81)
-				(name "Pin_7"
+				(name "GND"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10606,7 +10605,7 @@
 			(pin passive line
 				(at -5.08 6.35 0)
 				(length 3.81)
-				(name "Pin_8"
+				(name "VREFH(AREF)"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10624,7 +10623,7 @@
 			(pin passive line
 				(at -5.08 8.89 0)
 				(length 3.81)
-				(name "Pin_9"
+				(name "HDR_I2C_SDA"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10744,7 +10743,7 @@
 			(pin passive line
 				(at -5.08 -8.89 0)
 				(length 3.81)
-				(name "Pin_1"
+				(name "UART_RX_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10762,7 +10761,7 @@
 			(pin passive line
 				(at -5.08 -6.35 0)
 				(length 3.81)
-				(name "Pin_2"
+				(name "UART_TX_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10780,7 +10779,7 @@
 			(pin passive line
 				(at -5.08 -3.81 0)
 				(length 3.81)
-				(name "Pin_3"
+				(name "D2_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10798,7 +10797,7 @@
 			(pin passive line
 				(at -5.08 -1.27 0)
 				(length 3.81)
-				(name "Pin_4"
+				(name "D3_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10816,7 +10815,7 @@
 			(pin passive line
 				(at -5.08 1.27 0)
 				(length 3.81)
-				(name "Pin_5"
+				(name "D4_ARD"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10834,7 +10833,7 @@
 			(pin passive line
 				(at -5.08 3.81 0)
 				(length 3.81)
-				(name "Pin_6"
+				(name "P6_2"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10852,7 +10851,7 @@
 			(pin passive line
 				(at -5.08 6.35 0)
 				(length 3.81)
-				(name "Pin_7"
+				(name "P19_2"
 					(effects
 						(font
 							(size 0.635 0.635)
@@ -10870,7 +10869,7 @@
 			(pin passive line
 				(at -5.08 8.89 0)
 				(length 3.81)
-				(name "Pin_8"
+				(name "P2_3"
 					(effects
 						(font
 							(size 0.635 0.635)

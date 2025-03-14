@@ -1393,7 +1393,6 @@
 	(hierarchical_label "BS-"
 		(shape output)
 		(at 156.21 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1405,7 +1404,6 @@
 	(hierarchical_label "BS+"
 		(shape output)
 		(at 156.21 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

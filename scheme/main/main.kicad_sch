@@ -1454,7 +1454,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "1bd0e084-5602-43f5-a9de-9167dc3ddabf")
 		(property "Sheetname" "Current Sense V"
@@ -1522,7 +1522,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "236c27c1-9285-48af-b94c-0a581f89ad4f")
 		(property "Sheetname" "Current Sense U"
@@ -1590,7 +1590,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a")
 		(property "Sheetname" "Current Filter U"
@@ -1648,7 +1648,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "4cfe507b-a3ab-4a86-b86e-4fb85889813e")
 		(property "Sheetname" "digital_input_term"
@@ -1736,7 +1736,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "529e7c08-d17e-4397-8cce-ee2a0c13f81d")
 		(property "Sheetname" "Rectifier_dc"
@@ -1804,7 +1804,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "5abad072-255e-43b5-81ad-39000e042b96")
 		(property "Sheetname" "Current Filter W"
@@ -1862,7 +1862,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "5d407613-ca47-4478-86ea-137e1786be86")
 		(property "Sheetname" "IPM"
@@ -2010,7 +2010,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "5fa6ede8-f1b3-46e0-b9d4-c21c084d88c4")
 		(property "Sheetname" "digital_output_term"
@@ -2108,7 +2108,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "65f1abf4-f16e-41b7-92a2-6e9eb3d99d97")
 		(property "Sheetname" "vdc_meas"
@@ -2156,7 +2156,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "7d40f93b-18df-4406-a354-a8dac5c853e3")
 		(property "Sheetname" "digital_outputs"
@@ -2274,7 +2274,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "95789226-49ac-48bd-87d5-f3fb8512f467")
 		(property "Sheetname" "pwr_term"
@@ -2372,7 +2372,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "b143e45b-d52c-4c1e-956d-7828de21cc22")
 		(property "Sheetname" "Current Filter V"
@@ -2430,7 +2430,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "bedea6de-a196-4917-ba70-c071156ad9b9")
 		(property "Sheetname" "digital_inputs"
@@ -2608,7 +2608,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "dd58f61f-c5ca-456a-ab08-38b10841227b")
 		(property "Sheetname" "bus"
@@ -2686,7 +2686,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "e3db07b5-d47c-4d55-bf51-a423335924fb")
 		(property "Sheetname" "ctrl_con"
@@ -2934,7 +2934,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "eb061644-a076-485c-afde-65b59d5b34e4")
 		(property "Sheetname" "Current Sense W"
@@ -3002,7 +3002,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "f37982a3-337b-429f-abb6-a84102507a70")
 		(property "Sheetname" "Power"
@@ -3070,7 +3070,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 194 1.0000)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "f94cdf73-8990-4542-b860-07ed38f8101b")
 		(property "Sheetname" "bus_term"
