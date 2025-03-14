@@ -241,26 +241,26 @@
 		)
 	)
 	(junction
-		(at 148.59 90.17)
+		(at 160.02 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c865e70-735d-44f1-9069-165c90699cdc")
 	)
 	(junction
-		(at 148.59 85.09)
+		(at 160.02 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f09c9ab6-5a0c-4bc5-966a-c1c8f663d675")
 	)
 	(junction
-		(at 148.59 95.25)
+		(at 160.02 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fe4bb4f0-c6f3-4567-ba09-ad283c64d5c9")
 	)
 	(wire
 		(pts
-			(xy 152.4 95.25) (xy 148.59 95.25)
+			(xy 156.21 95.25) (xy 160.02 95.25)
 		)
 		(stroke
 			(width 0)
@@ -270,7 +270,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 104.14) (xy 119.38 104.14)
+			(xy 185.42 104.14) (xy 189.23 104.14)
 		)
 		(stroke
 			(width 0)
@@ -280,7 +280,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 90.17) (xy 148.59 85.09)
+			(xy 160.02 90.17) (xy 160.02 85.09)
 		)
 		(stroke
 			(width 0)
@@ -290,7 +290,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 91.44) (xy 119.38 91.44)
+			(xy 185.42 91.44) (xy 189.23 91.44)
 		)
 		(stroke
 			(width 0)
@@ -300,7 +300,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 95.25) (xy 148.59 90.17)
+			(xy 160.02 95.25) (xy 160.02 90.17)
 		)
 		(stroke
 			(width 0)
@@ -310,7 +310,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 100.33) (xy 148.59 100.33)
+			(xy 156.21 100.33) (xy 160.02 100.33)
 		)
 		(stroke
 			(width 0)
@@ -320,7 +320,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 87.63) (xy 123.19 85.09)
+			(xy 185.42 87.63) (xy 185.42 85.09)
 		)
 		(stroke
 			(width 0)
@@ -330,7 +330,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 92.71) (xy 123.19 92.71)
+			(xy 156.21 92.71) (xy 185.42 92.71)
 		)
 		(stroke
 			(width 0)
@@ -340,7 +340,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 85.09) (xy 152.4 85.09)
+			(xy 160.02 85.09) (xy 156.21 85.09)
 		)
 		(stroke
 			(width 0)
@@ -350,7 +350,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 102.87) (xy 123.19 102.87)
+			(xy 156.21 102.87) (xy 185.42 102.87)
 		)
 		(stroke
 			(width 0)
@@ -360,7 +360,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 78.74) (xy 148.59 78.74)
+			(xy 152.4 76.2) (xy 160.02 76.2)
 		)
 		(stroke
 			(width 0)
@@ -370,7 +370,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 85.09) (xy 123.19 85.09)
+			(xy 189.23 85.09) (xy 185.42 85.09)
 		)
 		(stroke
 			(width 0)
@@ -380,7 +380,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 90.17) (xy 148.59 90.17)
+			(xy 156.21 90.17) (xy 160.02 90.17)
 		)
 		(stroke
 			(width 0)
@@ -390,7 +390,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.33) (xy 148.59 95.25)
+			(xy 160.02 100.33) (xy 160.02 95.25)
 		)
 		(stroke
 			(width 0)
@@ -400,7 +400,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 87.63) (xy 123.19 87.63)
+			(xy 156.21 87.63) (xy 185.42 87.63)
 		)
 		(stroke
 			(width 0)
@@ -410,7 +410,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 102.87) (xy 123.19 104.14)
+			(xy 185.42 102.87) (xy 185.42 104.14)
 		)
 		(stroke
 			(width 0)
@@ -420,7 +420,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 92.71) (xy 123.19 91.44)
+			(xy 185.42 92.71) (xy 185.42 91.44)
 		)
 		(stroke
 			(width 0)
@@ -430,7 +430,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 78.74) (xy 148.59 85.09)
+			(xy 160.02 76.2) (xy 160.02 85.09)
 		)
 		(stroke
 			(width 0)
@@ -440,7 +440,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 97.79) (xy 152.4 97.79)
+			(xy 189.23 97.79) (xy 156.21 97.79)
 		)
 		(stroke
 			(width 0)
@@ -450,43 +450,43 @@
 	)
 	(hierarchical_label "DI3+"
 		(shape output)
-		(at 119.38 97.79 180)
+		(at 189.23 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "5eb54dcf-cc4f-48b5-aa48-c1bd2a561423")
 	)
 	(hierarchical_label "DI1+"
 		(shape output)
-		(at 119.38 85.09 180)
+		(at 189.23 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "8a178b94-b3a0-4967-9fc7-d542cc8c7994")
 	)
 	(hierarchical_label "DI2+"
 		(shape output)
-		(at 119.38 91.44 180)
+		(at 189.23 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "b08c9819-867b-49af-a02c-3937a3f68c37")
 	)
 	(hierarchical_label "24V"
 		(shape input)
-		(at 118.11 78.74 180)
+		(at 152.4 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -498,20 +498,19 @@
 	)
 	(hierarchical_label "DI4+"
 		(shape output)
-		(at 119.38 104.14 180)
+		(at 189.23 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "fc38804b-6eee-46f6-85cc-35ebd101bf67")
 	)
 	(symbol
 		(lib_id "main:DG141V-2.54-08P")
-		(at 152.4 85.09 0)
-		(mirror y)
+		(at 156.21 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -520,7 +519,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5689adb-e943-4a4e-a39e-9d45c0b4cf16")
 		(property "Reference" "X1"
-			(at 171.45 92.7099 0)
+			(at 137.16 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -529,7 +528,7 @@
 			)
 		)
 		(property "Value" "DG141V-2.54-08P"
-			(at 171.45 95.2499 0)
+			(at 137.16 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -538,7 +537,7 @@
 			)
 		)
 		(property "Footprint" "main:DG141V-2.54-08P"
-			(at 152.4 85.09 0)
+			(at 156.21 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -547,7 +546,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.degson.com"
-			(at 164.592 107.95 0)
+			(at 144.018 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -556,7 +555,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 85.09 0)
+			(at 156.21 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -565,7 +564,7 @@
 			)
 		)
 		(property "Manufacturer Part" "DG141V-2.54-08P"
-			(at 164.338 110.744 0)
+			(at 144.272 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -574,7 +573,7 @@
 			)
 		)
 		(property "Manufacturer" "Degson Electronics"
-			(at 164.338 116.332 0)
+			(at 144.272 116.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -583,7 +582,7 @@
 			)
 		)
 		(property "Supplier Part" "DG141V-2.54-08P"
-			(at 164.338 113.538 0)
+			(at 144.272 113.538 0)
 			(effects
 				(font
 					(size 1.27 1.27)

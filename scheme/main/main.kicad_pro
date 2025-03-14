@@ -540,6 +540,18 @@
     [
       "4cfe507b-a3ab-4a86-b86e-4fb85889813e",
       "digital_input_term"
+    ],
+    [
+      "e3db07b5-d47c-4d55-bf51-a423335924fb",
+      "ctrl_con"
+    ],
+    [
+      "f94cdf73-8990-4542-b860-07ed38f8101b",
+      "bus_term"
+    ],
+    [
+      "dd58f61f-c5ca-456a-ab08-38b10841227b",
+      "bus"
     ]
   ],
   "text_variables": {}
