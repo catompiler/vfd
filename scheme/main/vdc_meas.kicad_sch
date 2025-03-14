@@ -1542,12 +1542,6 @@
 		(uuid "366e8f99-8b09-419b-bbe6-4e0473d215d3")
 	)
 	(junction
-		(at 215.9 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e5bdc6c-6e64-4900-9c33-5c4caea7bf7d")
-	)
-	(junction
 		(at 116.84 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1630,6 +1624,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d951143c-294d-4a9f-845e-026eeb68f0cf")
+	)
+	(junction
+		(at 215.9 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "deb7a0b2-5f45-4e38-a01b-e6dbb7b70958")
 	)
 	(junction
 		(at 116.84 92.71)
@@ -1929,6 +1929,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 80.01) (xy 219.71 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5115f66a-8351-4496-9341-d47eb83ba836")
+	)
+	(wire
+		(pts
 			(xy 191.77 82.55) (xy 191.77 90.17)
 		)
 		(stroke
@@ -2099,6 +2109,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 80.01) (xy 231.14 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "803aca56-9706-4fef-9e9f-b7c021297081")
+	)
+	(wire
+		(pts
 			(xy 63.5 36.83) (xy 67.31 36.83)
 		)
 		(stroke
@@ -2136,16 +2156,6 @@
 			(type default)
 		)
 		(uuid "8b213a99-ffa2-4702-a239-031289cca831")
-	)
-	(wire
-		(pts
-			(xy 215.9 80.01) (xy 226.06 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90588aed-3713-431d-a63e-6f07d2146ac5")
 	)
 	(wire
 		(pts
@@ -2472,7 +2482,7 @@
 	)
 	(hierarchical_label "vdc_out"
 		(shape output)
-		(at 226.06 80.01 0)
+		(at 231.14 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4552,6 +4562,74 @@
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/65f1abf4-f16e-41b7-92a2-6e9eb3d99d97"
 					(reference "#PWR32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 223.52 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f8b311e3-1892-442f-a7f2-17e9b21d6ebe")
+		(property "Reference" "R107"
+			(at 223.52 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22R"
+			(at 223.52 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 223.52 81.788 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 223.52 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 223.52 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f290393-c25c-47ed-add1-63051c72c3c7")
+		)
+		(pin "2"
+			(uuid "19c80638-d35f-47bb-bc25-18d3e4171d35")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/65f1abf4-f16e-41b7-92a2-6e9eb3d99d97"
+					(reference "R107")
 					(unit 1)
 				)
 			)

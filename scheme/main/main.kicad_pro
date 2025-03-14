@@ -552,6 +552,18 @@
     [
       "dd58f61f-c5ca-456a-ab08-38b10841227b",
       "bus"
+    ],
+    [
+      "037f9fd3-aec8-42fc-8807-97ab6f40e6e8",
+      "xmc47_relax_kit"
+    ],
+    [
+      "6525718b-1ee0-4b4a-b427-5961f80d0d97",
+      "xmc45_relax_kit"
+    ],
+    [
+      "c4509caf-b793-4aa2-ac34-51fa006ccfd9",
+      "xmc71_eval_kit"
     ]
   ],
   "text_variables": {}

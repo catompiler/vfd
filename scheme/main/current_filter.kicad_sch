@@ -772,7 +772,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 68.58) (xy 140.97 68.58)
+			(xy 127 68.58) (xy 139.7 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1012,6 +1012,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 68.58) (xy 154.94 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0aec7fe-485f-496c-bb2d-7238bf9159e7")
+	)
+	(wire
+		(pts
 			(xy 107.95 71.12) (xy 104.14 71.12)
 		)
 		(stroke
@@ -1084,7 +1094,7 @@
 	)
 	(hierarchical_label "OUT"
 		(shape passive)
-		(at 140.97 68.58 0)
+		(at 154.94 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1565,6 +1575,82 @@
 				)
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/b143e45b-d52c-4c1e-956d-7828de21cc22"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 143.51 68.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b480eec6-d588-43bb-8eb0-cf39963e5cdb")
+		(property "Reference" "R102"
+			(at 143.51 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22R"
+			(at 143.51 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 143.51 70.358 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 143.51 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 143.51 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ee63b141-ae0f-4b20-a4d7-57d488b3aa89")
+		)
+		(pin "2"
+			(uuid "ffccab84-b2ac-4ac6-bb46-4674da2355a9")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a"
+					(reference "R102")
+					(unit 1)
+				)
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5abad072-255e-43b5-81ad-39000e042b96"
+					(reference "R104")
+					(unit 1)
+				)
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/b143e45b-d52c-4c1e-956d-7828de21cc22"
+					(reference "R103")
 					(unit 1)
 				)
 			)
