@@ -482,12 +482,12 @@
       "Vfo"
     ],
     [
-      "65f1abf4-f16e-41b7-92a2-6e9eb3d99d97",
-      "vdc_meas"
-    ],
-    [
       "9ccbc314-e027-42d4-9a9d-e9d747352443",
       "control_isol"
+    ],
+    [
+      "65f1abf4-f16e-41b7-92a2-6e9eb3d99d97",
+      "vdc_meas"
     ],
     [
       "f37982a3-337b-429f-abb6-a84102507a70",
@@ -542,16 +542,16 @@
       "digital_input_term"
     ],
     [
-      "e3db07b5-d47c-4d55-bf51-a423335924fb",
-      "ctrl_con"
-    ],
-    [
       "f94cdf73-8990-4542-b860-07ed38f8101b",
       "bus_term"
     ],
     [
       "dd58f61f-c5ca-456a-ab08-38b10841227b",
       "bus"
+    ],
+    [
+      "e3db07b5-d47c-4d55-bf51-a423335924fb",
+      "ctrl_con"
     ],
     [
       "037f9fd3-aec8-42fc-8807-97ab6f40e6e8",
