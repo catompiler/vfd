@@ -564,6 +564,30 @@
     [
       "c4509caf-b793-4aa2-ac34-51fa006ccfd9",
       "xmc71_eval_kit"
+    ],
+    [
+      "be1839c4-5f6b-452f-9b68-0f6171decebf",
+      "adc_driver_Iu"
+    ],
+    [
+      "fb1fafd4-922f-45a5-a314-26ca3ec9afeb",
+      "adc_driver_Iv"
+    ],
+    [
+      "3bbe3161-0f7e-4deb-b1b8-a59a29e345f1",
+      "adc_driver_Iw"
+    ],
+    [
+      "b8f6b8cc-8fdc-489d-856d-b52c2e7cba03",
+      "adc_driver_Udc"
+    ],
+    [
+      "2c09993b-bdca-4a8a-9bcf-01ccee06f6c9",
+      "adc_driver_Temp"
+    ],
+    [
+      "520906bd-83a5-460c-87a5-c5c25b3f3979",
+      "output_buffer"
     ]
   ],
   "text_variables": {}

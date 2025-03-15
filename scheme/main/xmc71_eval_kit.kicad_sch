@@ -3496,6 +3496,17 @@
 		)
 		(uuid "01cf0b40-5bb6-43b1-bce0-e6a0fc686057")
 	)
+	(hierarchical_label "pwm_oe"
+		(shape output)
+		(at 264.16 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13ef8d30-c9dc-4fb2-81a1-960008cbafb9")
+	)
 	(hierarchical_label "di2"
 		(shape input)
 		(at 30.48 85.09 180)
@@ -3564,7 +3575,7 @@
 	)
 	(hierarchical_label "do2"
 		(shape output)
-		(at 264.16 96.52 0)
+		(at 264.16 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3597,7 +3608,7 @@
 	)
 	(hierarchical_label "DCrelay"
 		(shape output)
-		(at 264.16 66.04 0)
+		(at 264.16 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3605,6 +3616,17 @@
 			(justify left)
 		)
 		(uuid "728e140a-0eda-4e73-bcbc-a82bcf7797c5")
+	)
+	(hierarchical_label "oe"
+		(shape output)
+		(at 264.16 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c0f8c28-6b6f-4c2d-8c6a-90b52c8e5065")
 	)
 	(hierarchical_label "can_rx"
 		(shape output)
@@ -3685,7 +3707,7 @@
 	)
 	(hierarchical_label "do1"
 		(shape output)
-		(at 264.16 92.71 0)
+		(at 264.16 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
