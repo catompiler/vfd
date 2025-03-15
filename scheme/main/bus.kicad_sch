@@ -2613,10 +2613,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "963168b8-2725-4e82-851e-f8b723cdb948")
 		(property "Reference" "C98"
-			(at 110.49 72.3899 0)
+			(at 100.838 70.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2624,8 +2623,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF"
-			(at 110.49 74.9299 0)
+		(property "Value" "100nF"
+			(at 99.314 76.708 0)
 			(effects
 				(font
 					(size 1.27 1.27)
