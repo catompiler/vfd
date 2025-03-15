@@ -1356,7 +1356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87890fc6-6640-46b2-80c3-c95ed3ea8950")
-		(property "Reference" "R?"
+		(property "Reference" "R146"
 			(at 74.93 59.69 90)
 			(effects
 				(font
@@ -1408,7 +1408,7 @@
 		(instances
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a"
-					(reference "R?")
+					(reference "R146")
 					(unit 1)
 				)
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5abad072-255e-43b5-81ad-39000e042b96"
@@ -1663,7 +1663,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf1ea06f-f1a4-41e8-9857-0ca7e6b7171f")
-		(property "Reference" "U?"
+		(property "Reference" "U29"
 			(at 118.618 61.214 0)
 			(effects
 				(font
@@ -1724,7 +1724,7 @@
 		(instances
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a"
-					(reference "U?")
+					(reference "U29")
 					(unit 1)
 				)
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5abad072-255e-43b5-81ad-39000e042b96"
@@ -1748,7 +1748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca5d287d-5afb-447d-b1b2-92c20d3e0a81")
-		(property "Reference" "C?"
+		(property "Reference" "C114"
 			(at 101.6 50.8 90)
 			(effects
 				(font
@@ -1800,7 +1800,7 @@
 		(instances
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a"
-					(reference "C?")
+					(reference "C114")
 					(unit 1)
 				)
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5abad072-255e-43b5-81ad-39000e042b96"
@@ -1824,7 +1824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de8cf6e2-4d1d-42fe-85c2-195789bdf1f5")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR149"
 			(at 113.03 54.61 0)
 			(effects
 				(font
@@ -1874,7 +1874,7 @@
 		(instances
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a"
-					(reference "#PWR?")
+					(reference "#PWR149")
 					(unit 1)
 				)
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5abad072-255e-43b5-81ad-39000e042b96"
@@ -1898,7 +1898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e836b0be-c54c-44fe-86f8-923091f9b2a6")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR148"
 			(at 93.98 101.6 0)
 			(effects
 				(font
@@ -1948,7 +1948,7 @@
 		(instances
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a"
-					(reference "#PWR?")
+					(reference "#PWR148")
 					(unit 1)
 				)
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5abad072-255e-43b5-81ad-39000e042b96"
