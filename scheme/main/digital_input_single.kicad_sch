@@ -1205,7 +1205,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 95.25) (xy 193.04 95.25)
+			(xy 190.5 95.25) (xy 203.2 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1322,16 +1322,6 @@
 			(type default)
 		)
 		(uuid "9f81ffad-07f1-4b50-a7bc-b7892f8e20b2")
-	)
-	(wire
-		(pts
-			(xy 200.66 95.25) (xy 203.2 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c57f1e6e-574d-4aec-9df1-69781c830ba1")
 	)
 	(wire
 		(pts
@@ -1637,86 +1627,6 @@
 				)
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/bedea6de-a196-4917-ba70-c071156ad9b9/bd001503-3ad8-4979-953f-3e7ea894eb19"
 					(reference "R84")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 196.85 95.25 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6001e857-aa85-4346-915a-341d66676fa1")
-		(property "Reference" "R110"
-			(at 196.85 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22R"
-			(at 196.85 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 196.85 97.028 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 196.85 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "80fb731b-4f73-4922-b0dc-1d20122b15d8")
-		)
-		(pin "2"
-			(uuid "dadc1f5f-054b-4d19-81e2-a4d171095f2b")
-		)
-		(instances
-			(project "main"
-				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/bedea6de-a196-4917-ba70-c071156ad9b9/31162724-615b-46ba-8c0e-f604e9ec35b9"
-					(reference "R110")
-					(unit 1)
-				)
-				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/bedea6de-a196-4917-ba70-c071156ad9b9/9dc33930-f682-4ed1-a57d-b39bd6b7930d"
-					(reference "R109")
-					(unit 1)
-				)
-				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/bedea6de-a196-4917-ba70-c071156ad9b9/a9420b45-d901-4429-a945-3bcdca919a43"
-					(reference "R108")
-					(unit 1)
-				)
-				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/bedea6de-a196-4917-ba70-c071156ad9b9/bd001503-3ad8-4979-953f-3e7ea894eb19"
-					(reference "R111")
 					(unit 1)
 				)
 			)
