@@ -4528,7 +4528,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "main:XMC45_RELAX_KIT_V1"
 			(at 110.49 78.74 0)
 			(effects
 				(font
@@ -5498,7 +5498,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "main:XMC45_RELAX_KIT_V1"
 			(at 166.37 78.74 0)
 			(effects
 				(font

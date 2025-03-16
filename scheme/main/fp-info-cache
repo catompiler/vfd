@@ -1,4 +1,4 @@
-24706538367732472
+24708280492882047
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99413,3 +99413,10 @@ URB_ZP-6WR3
 0
 7
 7
+main
+XMC45_RELAX_KIT_V1
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+80
+40
