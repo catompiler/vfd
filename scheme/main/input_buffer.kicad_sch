@@ -933,6 +933,12 @@
 		)
 	)
 	(junction
+		(at 153.67 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "051ca2de-9f92-490f-b7c3-53890d1db81e")
+	)
+	(junction
 		(at 153.67 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -951,7 +957,7 @@
 		(uuid "34cf4464-2a40-4cca-86e8-1a77237c67c9")
 	)
 	(junction
-		(at 162.56 88.9)
+		(at 162.56 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a6b5578-82a7-49c6-a663-48d7bc6eae0c")
@@ -999,19 +1005,13 @@
 		(uuid "c46a2bc2-f2a5-49e5-92f3-a315aa1a2974")
 	)
 	(junction
-		(at 153.67 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c8352e61-91e2-4ce5-9f80-c5b76d6a6d20")
-	)
-	(junction
-		(at 171.45 88.9)
+		(at 171.45 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec2f2a0f-c05a-4fe5-8fed-3d8290c90e0a")
 	)
 	(junction
-		(at 180.34 88.9)
+		(at 180.34 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee699da6-1001-4074-8093-01c26dd6a042")
@@ -1036,7 +1036,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 86.36) (xy 162.56 88.9)
+			(xy 162.56 86.36) (xy 162.56 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1146,7 +1146,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 86.36) (xy 180.34 88.9)
+			(xy 180.34 86.36) (xy 180.34 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1156,7 +1156,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 88.9) (xy 171.45 88.9)
+			(xy 162.56 97.79) (xy 171.45 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1176,7 +1176,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 88.9) (xy 189.23 88.9)
+			(xy 180.34 97.79) (xy 189.23 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1246,7 +1246,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 88.9) (xy 162.56 88.9)
+			(xy 153.67 97.79) (xy 162.56 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1366,16 +1366,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 86.36) (xy 153.67 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b6fb9f9-e8c6-4801-b5d1-f6005dc2b490")
-	)
-	(wire
-		(pts
 			(xy 143.51 68.58) (xy 171.45 68.58)
 		)
 		(stroke
@@ -1476,7 +1466,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 97.79) (xy 153.67 88.9)
+			(xy 153.67 86.36) (xy 153.67 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1486,7 +1476,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 86.36) (xy 189.23 88.9)
+			(xy 189.23 86.36) (xy 189.23 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1526,7 +1516,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 88.9) (xy 180.34 88.9)
+			(xy 171.45 97.79) (xy 180.34 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1546,7 +1536,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 86.36) (xy 171.45 88.9)
+			(xy 171.45 86.36) (xy 171.45 97.79)
 		)
 		(stroke
 			(width 0)

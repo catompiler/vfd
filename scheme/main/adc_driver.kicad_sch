@@ -360,14 +360,14 @@
 		)
 	)
 	(junction
-		(at 78.74 55.88)
+		(at 144.78 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55a84b8a-98d4-4aa7-9efb-82b90a61b494")
 	)
 	(wire
 		(pts
-			(xy 77.47 55.88) (xy 78.74 55.88)
+			(xy 143.51 85.09) (xy 144.78 85.09)
 		)
 		(stroke
 			(width 0)
@@ -377,7 +377,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 55.88) (xy 69.85 55.88)
+			(xy 128.27 85.09) (xy 135.89 85.09)
 		)
 		(stroke
 			(width 0)
@@ -387,7 +387,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 55.88) (xy 95.25 55.88)
+			(xy 144.78 85.09) (xy 161.29 85.09)
 		)
 		(stroke
 			(width 0)
@@ -397,7 +397,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 55.88) (xy 78.74 57.15)
+			(xy 144.78 85.09) (xy 144.78 86.36)
 		)
 		(stroke
 			(width 0)
@@ -407,7 +407,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 64.77) (xy 78.74 66.04)
+			(xy 144.78 93.98) (xy 144.78 95.25)
 		)
 		(stroke
 			(width 0)
@@ -417,7 +417,7 @@
 	)
 	(text "Драйвер АЦП рассчитан на максимальную частоту 16 кГц\nпо значению внутренней ёмкости АЦП согласно даташита."
 		(exclude_from_sim no)
-		(at 79.248 77.978 0)
+		(at 145.288 107.188 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -427,7 +427,7 @@
 	)
 	(hierarchical_label "in"
 		(shape input)
-		(at 62.23 55.88 180)
+		(at 128.27 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -438,7 +438,7 @@
 	)
 	(hierarchical_label "out"
 		(shape output)
-		(at 95.25 55.88 0)
+		(at 161.29 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -449,7 +449,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 73.66 55.88 270)
+		(at 139.7 85.09 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -458,7 +458,7 @@
 		(dnp no)
 		(uuid "300ac168-1d12-435a-bb47-7080181e539c")
 		(property "Reference" "R118"
-			(at 73.66 62.23 90)
+			(at 139.7 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -466,7 +466,7 @@
 			)
 		)
 		(property "Value" "51R"
-			(at 73.66 59.69 90)
+			(at 139.7 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -474,7 +474,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 73.66 57.658 90)
+			(at 139.7 86.868 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -483,7 +483,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 73.66 55.88 0)
+			(at 139.7 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -492,7 +492,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 73.66 55.88 0)
+			(at 139.7 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -533,7 +533,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 78.74 60.96 180)
+		(at 144.78 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -541,7 +541,7 @@
 		(dnp no)
 		(uuid "314db049-3ae2-4df5-902b-67ffa8ae8ba4")
 		(property "Reference" "C107"
-			(at 82.55 59.6899 0)
+			(at 148.59 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -550,7 +550,7 @@
 			)
 		)
 		(property "Value" "150nF"
-			(at 82.55 62.2299 0)
+			(at 148.59 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -559,7 +559,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 77.7748 57.15 0)
+			(at 143.8148 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -568,7 +568,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 60.96 0)
+			(at 144.78 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -577,7 +577,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 78.74 60.96 0)
+			(at 144.78 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -618,7 +618,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 78.74 66.04 0)
+		(at 144.78 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -627,7 +627,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ec7d50f-a515-4235-8348-58a261961516")
 		(property "Reference" "#PWR136"
-			(at 78.74 72.39 0)
+			(at 144.78 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -636,7 +636,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 78.74 71.12 0)
+			(at 144.78 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -644,7 +644,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 66.04 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -653,7 +653,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 66.04 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -662,7 +662,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 78.74 66.04 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
