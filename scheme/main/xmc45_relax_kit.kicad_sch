@@ -194,7 +194,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Connector*:*_2x??_*"
+			(property "ki_fp_filters" "KIT_XMC45_RELAX_V1"
 				(at 0 0 0)
 				(effects
 					(font
@@ -666,7 +666,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "X1_1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -684,7 +684,7 @@
 							)
 						)
 					)
-					(number "10"
+					(number "X1_10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -702,7 +702,7 @@
 							)
 						)
 					)
-					(number "11"
+					(number "X1_11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -720,7 +720,7 @@
 							)
 						)
 					)
-					(number "12"
+					(number "X1_12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -738,7 +738,7 @@
 							)
 						)
 					)
-					(number "13"
+					(number "X1_13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -756,7 +756,7 @@
 							)
 						)
 					)
-					(number "14"
+					(number "X1_14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -774,7 +774,7 @@
 							)
 						)
 					)
-					(number "15"
+					(number "X1_15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -792,7 +792,7 @@
 							)
 						)
 					)
-					(number "16"
+					(number "X1_16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -810,7 +810,7 @@
 							)
 						)
 					)
-					(number "17"
+					(number "X1_17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -828,7 +828,7 @@
 							)
 						)
 					)
-					(number "18"
+					(number "X1_18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -846,7 +846,7 @@
 							)
 						)
 					)
-					(number "19"
+					(number "X1_19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -864,7 +864,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "X1_2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -882,7 +882,7 @@
 							)
 						)
 					)
-					(number "20"
+					(number "X1_20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -900,7 +900,7 @@
 							)
 						)
 					)
-					(number "21"
+					(number "X1_21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -918,7 +918,7 @@
 							)
 						)
 					)
-					(number "22"
+					(number "X1_22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -936,7 +936,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "X1_23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -954,7 +954,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "X1_24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -972,7 +972,7 @@
 							)
 						)
 					)
-					(number "25"
+					(number "X1_25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -990,7 +990,7 @@
 							)
 						)
 					)
-					(number "26"
+					(number "X1_26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1008,7 +1008,7 @@
 							)
 						)
 					)
-					(number "27"
+					(number "X1_27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1026,7 +1026,7 @@
 							)
 						)
 					)
-					(number "28"
+					(number "X1_28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1044,7 +1044,7 @@
 							)
 						)
 					)
-					(number "29"
+					(number "X1_29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1062,7 +1062,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "X1_3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1080,7 +1080,7 @@
 							)
 						)
 					)
-					(number "30"
+					(number "X1_30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1098,7 +1098,7 @@
 							)
 						)
 					)
-					(number "31"
+					(number "X1_31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1116,7 +1116,7 @@
 							)
 						)
 					)
-					(number "32"
+					(number "X1_32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1134,7 +1134,7 @@
 							)
 						)
 					)
-					(number "33"
+					(number "X1_33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1152,7 +1152,7 @@
 							)
 						)
 					)
-					(number "34"
+					(number "X1_34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1170,7 +1170,7 @@
 							)
 						)
 					)
-					(number "35"
+					(number "X1_35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1188,7 +1188,7 @@
 							)
 						)
 					)
-					(number "36"
+					(number "X1_36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1206,7 +1206,7 @@
 							)
 						)
 					)
-					(number "37"
+					(number "X1_37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1224,7 +1224,7 @@
 							)
 						)
 					)
-					(number "38"
+					(number "X1_38"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1242,7 +1242,7 @@
 							)
 						)
 					)
-					(number "39"
+					(number "X1_39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1260,7 +1260,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "X1_4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1278,7 +1278,7 @@
 							)
 						)
 					)
-					(number "40"
+					(number "X1_40"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1296,7 +1296,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "X1_5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1314,7 +1314,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "X1_6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1332,7 +1332,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "X1_7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1350,7 +1350,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "X1_8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1368,7 +1368,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "X1_9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1840,7 +1840,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "X2_1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1858,7 +1858,7 @@
 							)
 						)
 					)
-					(number "10"
+					(number "X2_10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1876,7 +1876,7 @@
 							)
 						)
 					)
-					(number "11"
+					(number "X2_11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1894,7 +1894,7 @@
 							)
 						)
 					)
-					(number "12"
+					(number "X2_12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1912,7 +1912,7 @@
 							)
 						)
 					)
-					(number "13"
+					(number "X2_13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1930,7 +1930,7 @@
 							)
 						)
 					)
-					(number "14"
+					(number "X2_14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1948,7 +1948,7 @@
 							)
 						)
 					)
-					(number "15"
+					(number "X2_15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1966,7 +1966,7 @@
 							)
 						)
 					)
-					(number "16"
+					(number "X2_16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1984,7 +1984,7 @@
 							)
 						)
 					)
-					(number "17"
+					(number "X2_17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2002,7 +2002,7 @@
 							)
 						)
 					)
-					(number "18"
+					(number "X2_18"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2020,7 +2020,7 @@
 							)
 						)
 					)
-					(number "19"
+					(number "X2_19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2038,7 +2038,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "X2_2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2056,7 +2056,7 @@
 							)
 						)
 					)
-					(number "20"
+					(number "X2_20"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2074,7 +2074,7 @@
 							)
 						)
 					)
-					(number "21"
+					(number "X2_21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2092,7 +2092,7 @@
 							)
 						)
 					)
-					(number "22"
+					(number "X2_22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2110,7 +2110,7 @@
 							)
 						)
 					)
-					(number "23"
+					(number "X2_23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2128,7 +2128,7 @@
 							)
 						)
 					)
-					(number "24"
+					(number "X2_24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2146,7 +2146,7 @@
 							)
 						)
 					)
-					(number "25"
+					(number "X2_25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2164,7 +2164,7 @@
 							)
 						)
 					)
-					(number "26"
+					(number "X2_26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2182,7 +2182,7 @@
 							)
 						)
 					)
-					(number "27"
+					(number "X2_27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2200,7 +2200,7 @@
 							)
 						)
 					)
-					(number "28"
+					(number "X2_28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2218,7 +2218,7 @@
 							)
 						)
 					)
-					(number "29"
+					(number "X2_29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2236,7 +2236,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "X2_3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2254,7 +2254,7 @@
 							)
 						)
 					)
-					(number "30"
+					(number "X2_30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2272,7 +2272,7 @@
 							)
 						)
 					)
-					(number "31"
+					(number "X2_31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2290,7 +2290,7 @@
 							)
 						)
 					)
-					(number "32"
+					(number "X2_32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2308,7 +2308,7 @@
 							)
 						)
 					)
-					(number "33"
+					(number "X2_33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2326,7 +2326,7 @@
 							)
 						)
 					)
-					(number "34"
+					(number "X2_34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2344,7 +2344,7 @@
 							)
 						)
 					)
-					(number "35"
+					(number "X2_35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2362,7 +2362,7 @@
 							)
 						)
 					)
-					(number "36"
+					(number "X2_36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2380,7 +2380,7 @@
 							)
 						)
 					)
-					(number "37"
+					(number "X2_37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2398,7 +2398,7 @@
 							)
 						)
 					)
-					(number "38"
+					(number "X2_38"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2416,7 +2416,7 @@
 							)
 						)
 					)
-					(number "39"
+					(number "X2_39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2434,7 +2434,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "X2_4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2452,7 +2452,7 @@
 							)
 						)
 					)
-					(number "40"
+					(number "X2_40"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2470,7 +2470,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "X2_5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2488,7 +2488,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "X2_6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2506,7 +2506,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "X2_7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2524,7 +2524,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "X2_8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2542,7 +2542,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "X2_9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3791,6 +3791,7 @@
 	)
 	(label "Udc"
 		(at 43.18 64.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3801,6 +3802,7 @@
 	)
 	(label "oe"
 		(at 231.14 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3811,6 +3813,7 @@
 	)
 	(label "Iw"
 		(at 43.18 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3821,6 +3824,7 @@
 	)
 	(label "pwm_uh"
 		(at 231.14 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3831,6 +3835,7 @@
 	)
 	(label "pwm_ul"
 		(at 231.14 69.85 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3841,6 +3846,7 @@
 	)
 	(label "can_rx"
 		(at 43.18 97.79 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3851,6 +3857,7 @@
 	)
 	(label "pwm_wh"
 		(at 231.14 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3861,6 +3868,7 @@
 	)
 	(label "pwm_vl"
 		(at 231.14 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3871,6 +3879,7 @@
 	)
 	(label "Iv"
 		(at 43.18 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3881,6 +3890,7 @@
 	)
 	(label "di3"
 		(at 43.18 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3891,6 +3901,7 @@
 	)
 	(label "do2"
 		(at 231.14 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3901,6 +3912,7 @@
 	)
 	(label "pwm_wl"
 		(at 231.14 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3911,6 +3923,7 @@
 	)
 	(label "can_tx"
 		(at 43.18 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3921,6 +3934,7 @@
 	)
 	(label "Trip"
 		(at 118.11 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3931,6 +3945,7 @@
 	)
 	(label "pwm_oe"
 		(at 118.11 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3941,6 +3956,7 @@
 	)
 	(label "pwm_ul"
 		(at 158.75 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3951,6 +3967,7 @@
 	)
 	(label "do1"
 		(at 231.14 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3961,6 +3978,7 @@
 	)
 	(label "di4"
 		(at 118.11 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3971,6 +3989,7 @@
 	)
 	(label "pwm_vh"
 		(at 118.11 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3981,6 +4000,7 @@
 	)
 	(label "di2"
 		(at 173.99 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3991,6 +4011,7 @@
 	)
 	(label "di3"
 		(at 158.75 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4001,6 +4022,7 @@
 	)
 	(label "Iu"
 		(at 43.18 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4011,6 +4033,7 @@
 	)
 	(label "pwm_vh"
 		(at 231.14 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4021,6 +4044,7 @@
 	)
 	(label "Iv"
 		(at 158.75 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4031,6 +4055,7 @@
 	)
 	(label "pwm_wl"
 		(at 118.11 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4041,6 +4066,7 @@
 	)
 	(label "di2"
 		(at 43.18 80.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4051,6 +4077,7 @@
 	)
 	(label "Trip"
 		(at 43.18 72.39 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4061,6 +4088,7 @@
 	)
 	(label "do2"
 		(at 173.99 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4071,6 +4099,7 @@
 	)
 	(label "dc_relay"
 		(at 102.87 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4081,6 +4110,7 @@
 	)
 	(label "pwm_oe"
 		(at 231.14 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4091,6 +4121,7 @@
 	)
 	(label "can_tx"
 		(at 118.11 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4101,6 +4132,7 @@
 	)
 	(label "di4"
 		(at 43.18 87.63 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4111,6 +4143,7 @@
 	)
 	(label "dc_relay"
 		(at 231.14 95.25 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4121,6 +4154,7 @@
 	)
 	(label "pwm_wh"
 		(at 102.87 91.44 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4131,6 +4165,7 @@
 	)
 	(label "pwm_uh"
 		(at 102.87 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4141,6 +4176,7 @@
 	)
 	(label "Temp"
 		(at 173.99 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4151,6 +4187,7 @@
 	)
 	(label "oe"
 		(at 102.87 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4161,6 +4198,7 @@
 	)
 	(label "di1"
 		(at 158.75 91.44 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4171,6 +4209,7 @@
 	)
 	(label "di1"
 		(at 43.18 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4181,6 +4220,7 @@
 	)
 	(label "can_rx"
 		(at 102.87 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4191,6 +4231,7 @@
 	)
 	(label "Udc"
 		(at 173.99 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4201,6 +4242,7 @@
 	)
 	(label "Iw"
 		(at 158.75 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4211,6 +4253,7 @@
 	)
 	(label "Temp"
 		(at 43.18 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4221,6 +4264,7 @@
 	)
 	(label "Iu"
 		(at 158.75 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4231,6 +4275,7 @@
 	)
 	(label "do1"
 		(at 173.99 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4241,6 +4286,7 @@
 	)
 	(label "pwm_vl"
 		(at 158.75 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4252,6 +4298,7 @@
 	(hierarchical_label "Iu"
 		(shape input)
 		(at 41.91 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4263,6 +4310,7 @@
 	(hierarchical_label "pwm_wh"
 		(shape output)
 		(at 238.76 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4274,6 +4322,7 @@
 	(hierarchical_label "di2"
 		(shape input)
 		(at 41.91 80.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4285,6 +4334,7 @@
 	(hierarchical_label "can_rx"
 		(shape output)
 		(at 41.91 97.79 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4296,6 +4346,7 @@
 	(hierarchical_label "di3"
 		(shape input)
 		(at 41.91 83.82 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4307,6 +4358,7 @@
 	(hierarchical_label "di4"
 		(shape input)
 		(at 41.91 87.63 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4318,6 +4370,7 @@
 	(hierarchical_label "Iw"
 		(shape input)
 		(at 41.91 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4329,6 +4382,7 @@
 	(hierarchical_label "Udc"
 		(shape input)
 		(at 41.91 64.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4340,6 +4394,7 @@
 	(hierarchical_label "di1"
 		(shape input)
 		(at 41.91 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4351,6 +4406,7 @@
 	(hierarchical_label "pwm_ul"
 		(shape output)
 		(at 238.76 69.85 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4362,6 +4418,7 @@
 	(hierarchical_label "pwm_vl"
 		(shape output)
 		(at 238.76 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4373,6 +4430,7 @@
 	(hierarchical_label "DCrelay"
 		(shape output)
 		(at 238.76 95.25 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4384,6 +4442,7 @@
 	(hierarchical_label "do1"
 		(shape output)
 		(at 238.76 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4395,6 +4454,7 @@
 	(hierarchical_label "pwm_wl"
 		(shape output)
 		(at 238.76 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4406,6 +4466,7 @@
 	(hierarchical_label "Temp"
 		(shape input)
 		(at 41.91 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4417,6 +4478,7 @@
 	(hierarchical_label "Iv"
 		(shape input)
 		(at 41.91 57.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4428,6 +4490,7 @@
 	(hierarchical_label "Trip"
 		(shape input)
 		(at 41.91 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4439,6 +4502,7 @@
 	(hierarchical_label "pwm_oe"
 		(shape output)
 		(at 238.76 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4450,6 +4514,7 @@
 	(hierarchical_label "do2"
 		(shape output)
 		(at 238.76 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4461,6 +4526,7 @@
 	(hierarchical_label "pwm_vh"
 		(shape output)
 		(at 238.76 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4472,6 +4538,7 @@
 	(hierarchical_label "oe"
 		(shape output)
 		(at 238.76 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4483,6 +4550,7 @@
 	(hierarchical_label "can_tx"
 		(shape input)
 		(at 41.91 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4494,6 +4562,7 @@
 	(hierarchical_label "pwm_uh"
 		(shape output)
 		(at 238.76 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4555,244 +4624,244 @@
 				(hide yes)
 			)
 		)
-		(pin "19"
+		(pin "X1_21"
 			(uuid "b85de1f7-ad37-4c01-a423-76ac92ce7c29")
 		)
-		(pin "2"
+		(pin "X1_28"
 			(uuid "b3446f17-36a3-4979-b6a4-a6e1d26c9b03")
 		)
-		(pin "20"
+		(pin "X1_6"
 			(uuid "b1f929c0-05f2-4a2d-a33c-a60150135acf")
 		)
-		(pin "32"
+		(pin "X1_15"
 			(uuid "f574b741-0b96-418d-8770-42e2b79c3f99")
 		)
-		(pin "21"
+		(pin "X1_4"
 			(uuid "6b5bd5ea-e88d-45a6-aa10-8b3e7a180a9e")
 		)
-		(pin "23"
+		(pin "X2_16"
 			(uuid "47c71ddc-2dee-43ba-84fe-42158aeea7dc")
 		)
-		(pin "25"
+		(pin "X1_9"
 			(uuid "eb805b52-541b-4a65-b5fd-372f30883f43")
 		)
-		(pin "12"
+		(pin "X2_17"
 			(uuid "9319409c-4cd6-43b6-af4e-911f45b0b63e")
 		)
-		(pin "24"
+		(pin "X1_39"
 			(uuid "b4b38514-509e-4335-9682-a6c0b12b9343")
 		)
-		(pin "20"
+		(pin "X2_28"
 			(uuid "ad41411a-0e12-421a-8cb1-9ba2f883cb43")
 		)
-		(pin "22"
+		(pin "X1_13"
 			(uuid "ede183fd-aa56-4cd7-9384-83939ea769ae")
 		)
-		(pin "9"
+		(pin "X2_19"
 			(uuid "08145936-96bb-4813-85f1-f02e22ea9619")
 		)
-		(pin "1"
+		(pin "X1_12"
 			(uuid "009b896e-faf5-4605-a122-5a6c836345a7")
 		)
-		(pin "11"
+		(pin "X1_5"
 			(uuid "e72e60cf-b0df-4d20-bb7f-de348a0405dd")
 		)
-		(pin "26"
+		(pin "X1_38"
 			(uuid "6a4a5921-416b-40e7-9419-ebb9cf0a442b")
 		)
-		(pin "21"
+		(pin "X2_10"
 			(uuid "311efb11-63b6-4ef6-8991-76bc188087d6")
 		)
-		(pin "14"
+		(pin "X1_14"
 			(uuid "e7cd3fa1-18e4-466a-8825-7083e7b2db55")
 		)
-		(pin "27"
+		(pin "X2_25"
 			(uuid "397744ab-bf9a-4912-bb4d-b29d5fa7a8e9")
 		)
-		(pin "28"
+		(pin "X2_26"
 			(uuid "981c05ef-50eb-4834-921b-7a0b48a42274")
 		)
-		(pin "4"
+		(pin "X1_22"
 			(uuid "cce3ea74-7fde-4d90-a47d-97cc1879f85e")
 		)
-		(pin "29"
+		(pin "X1_25"
 			(uuid "0c33fc8c-b405-4c86-a0fc-5037d94857f0")
 		)
-		(pin "6"
+		(pin "X1_11"
 			(uuid "3809f6be-8675-4bb3-8299-60f3fa8df052")
 		)
-		(pin "38"
+		(pin "X1_36"
 			(uuid "9065cd42-28be-4340-a860-fa3f5db35ced")
 		)
-		(pin "16"
+		(pin "X1_40"
 			(uuid "ed4bd563-58a0-486c-84c3-d30f0b9e2289")
 		)
-		(pin "18"
+		(pin "X1_7"
 			(uuid "b867e2c5-8388-486e-bca1-cd48fa9a7410")
 		)
-		(pin "22"
+		(pin "X2_1"
 			(uuid "a43884c5-bee1-4f1b-b3cc-fad08c287fe1")
 		)
-		(pin "19"
+		(pin "X2_27"
 			(uuid "8630ce53-0be9-4c88-9fb1-fd6925f0c0af")
 		)
-		(pin "23"
+		(pin "X1_18"
 			(uuid "23704ac2-224b-4b3f-b34e-245d31575029")
 		)
-		(pin "18"
+		(pin "X2_18"
 			(uuid "0f29a0e1-1220-4bcf-a3b7-b757d05d6a17")
 		)
-		(pin "24"
+		(pin "X2_24"
 			(uuid "4ff6d9fa-8774-4153-b975-d61fe1c4ff65")
 		)
-		(pin "3"
+		(pin "X1_17"
 			(uuid "fb54072a-50cd-4f8e-bb54-9e6418ee05fb")
 		)
-		(pin "15"
+		(pin "X1_20"
 			(uuid "30926fd2-56b3-4f74-b340-c0c54b90f03e")
 		)
-		(pin "13"
+		(pin "X1_29"
 			(uuid "7ac49251-c0ce-484b-a73d-ecfc611873fe")
 		)
-		(pin "37"
+		(pin "X1_35"
 			(uuid "86785e65-b7a7-42d7-b2af-84f5ccd5a8d7")
 		)
-		(pin "31"
+		(pin "X1_33"
 			(uuid "fe02dd1a-a622-42f8-b09e-dd39fd4f2e71")
 		)
-		(pin "39"
+		(pin "X2_29"
 			(uuid "2377d92e-9633-4675-bb34-18dabc034aad")
 		)
-		(pin "33"
+		(pin "X1_32"
 			(uuid "125d13af-51fc-4f8c-9426-cf6f2e5a83b3")
 		)
-		(pin "1"
+		(pin "X2_3"
 			(uuid "5bda1996-c8f6-450f-910d-98377cfea307")
 		)
-		(pin "2"
+		(pin "X1_10"
 			(uuid "9121cfff-eee5-4df5-a1c2-467b699d8351")
 		)
-		(pin "25"
+		(pin "X1_26"
 			(uuid "aad73e35-f5b3-4627-8a46-82a7b661ab9c")
 		)
-		(pin "26"
+		(pin "X2_35"
 			(uuid "9244ac35-d311-46f7-b893-d8bd3e36d322")
 		)
-		(pin "3"
+		(pin "X1_2"
 			(uuid "020f9bdd-a5b1-4f71-b16e-10e56d3f0f3b")
 		)
-		(pin "34"
+		(pin "X1_30"
 			(uuid "34d6f4ac-ac44-444e-ae97-b1c2695ee0b4")
 		)
-		(pin "28"
+		(pin "X2_38"
 			(uuid "2795e196-690f-40a0-9cfd-a724e0ed95cf")
 		)
-		(pin "35"
+		(pin "X2_15"
 			(uuid "39bae766-b02e-49c6-a4bb-76b0105e4cc0")
 		)
-		(pin "10"
+		(pin "X1_19"
 			(uuid "7be5ffed-6deb-4016-959a-e24cfd73d303")
 		)
-		(pin "40"
+		(pin "X2_33"
 			(uuid "07ce7500-166f-4026-9d92-5133a17d08ee")
 		)
-		(pin "27"
+		(pin "X2_5"
 			(uuid "c68ee89e-c0ca-40c0-96a9-c2cc4d92de53")
 		)
-		(pin "29"
+		(pin "X2_7"
 			(uuid "d5589d2f-87fd-44cd-a036-3feff7f410b3")
 		)
-		(pin "30"
+		(pin "X2_32"
 			(uuid "0bafc681-f94f-4637-9f83-35cda84c5948")
 		)
-		(pin "11"
+		(pin "X2_36"
 			(uuid "687f758a-8215-489e-8d26-f922ff7a3007")
 		)
-		(pin "5"
+		(pin "X2_9"
 			(uuid "02bb5425-7a00-45f5-a324-773f51b64312")
 		)
-		(pin "7"
+		(pin "X2_6"
 			(uuid "27815304-44cd-42b9-adab-49921ef9f3a9")
 		)
-		(pin "8"
+		(pin "X2_30"
 			(uuid "43317e60-7ea7-4ff1-bba0-4300e020aab7")
 		)
-		(pin "10"
+		(pin "X2_34"
 			(uuid "113aa4d1-ffcc-4dbb-a949-919bc950cb66")
 		)
-		(pin "12"
+		(pin "X2_39"
 			(uuid "25c5f86c-9cdc-4409-92ab-84460d61c177")
 		)
-		(pin "13"
+		(pin "X2_4"
 			(uuid "eee22b3d-cd93-4274-b7e2-b5b3f2686873")
 		)
-		(pin "14"
+		(pin "X2_8"
 			(uuid "5800cddb-fc69-4b74-b31b-d3179170740c")
 		)
-		(pin "15"
+		(pin "X2_31"
 			(uuid "09d23e91-0830-4a5e-88f1-e947b0440c69")
 		)
-		(pin "17"
+		(pin "X2_14"
 			(uuid "5480c39b-5f8d-4e9e-8f89-10c04f7933e4")
 		)
-		(pin "16"
+		(pin "X2_37"
 			(uuid "c2dc8f75-6f5e-4015-8035-1b25a207e7e6")
 		)
-		(pin "17"
+		(pin "X1_34"
 			(uuid "868083c3-e8ec-4652-942a-1bb7cfaab053")
 		)
-		(pin "36"
+		(pin "X2_13"
 			(uuid "990f9204-3f1f-4155-a3a9-d0eacc58bf0d")
 		)
-		(pin "40"
+		(pin "X2_40"
 			(uuid "12d19336-b32a-4b6c-b2e0-7a14318a75aa")
 		)
-		(pin "33"
+		(pin "X2_2"
 			(uuid "c9a2ec8d-fcae-4cc8-91c9-74d2236382f1")
 		)
-		(pin "31"
+		(pin "X1_16"
 			(uuid "36508e60-977b-4b57-9e97-d27dd45be863")
 		)
-		(pin "8"
+		(pin "X1_1"
 			(uuid "fe5c2ee7-4cff-4feb-851e-ec2b0c2af1b1")
 		)
-		(pin "36"
+		(pin "X1_3"
 			(uuid "1f84d8ff-146c-4755-9337-43506327fad1")
 		)
-		(pin "9"
+		(pin "X2_23"
 			(uuid "0becc929-2ff7-49e7-911f-988cfc3ee9f7")
 		)
-		(pin "30"
+		(pin "X2_21"
 			(uuid "0d71c597-c685-4ee4-9784-49682e5a6b2b")
 		)
-		(pin "32"
+		(pin "X1_37"
 			(uuid "5604e3be-8c79-423d-a174-0bb6baf0b16d")
 		)
-		(pin "4"
+		(pin "X1_27"
 			(uuid "2bd9fce3-e1fe-4bea-8975-a411cb5183dc")
 		)
-		(pin "5"
+		(pin "X2_20"
 			(uuid "94e4dba0-8835-4b21-94ee-c66334ca769c")
 		)
-		(pin "7"
+		(pin "X2_11"
 			(uuid "7356f946-9f62-4de6-b3ab-1482f29f97da")
 		)
-		(pin "38"
+		(pin "X2_22"
 			(uuid "d49ba05f-807a-426a-b46a-f6d6882d23d0")
 		)
-		(pin "6"
+		(pin "X2_12"
 			(uuid "b30d4330-e8cf-4b00-a452-d19f05619721")
 		)
-		(pin "35"
+		(pin "X1_23"
 			(uuid "e8bbf9db-c8d6-4bd4-9809-0496bf0bc32e")
 		)
-		(pin "37"
+		(pin "X1_24"
 			(uuid "5d168196-3f96-4c6b-809a-c62018c2c170")
 		)
-		(pin "39"
+		(pin "X1_8"
 			(uuid "ce7e7852-522a-46d4-b99b-44ad85d8c4e4")
 		)
-		(pin "34"
+		(pin "X1_31"
 			(uuid "a339a60d-bd6d-4664-88ff-7e01e91fe389")
 		)
 		(instances
@@ -5525,244 +5594,244 @@
 				(hide yes)
 			)
 		)
-		(pin "19"
+		(pin "X1_26"
 			(uuid "12d178ca-3f51-4c38-b456-1e20fbb5062c")
 		)
-		(pin "2"
+		(pin "X2_17"
 			(uuid "b96eb702-8372-4e70-bcd4-5774049b6c6f")
 		)
-		(pin "20"
+		(pin "X1_25"
 			(uuid "db32b6a6-f19a-483f-996e-efe6b2d9c056")
 		)
-		(pin "32"
+		(pin "X1_10"
 			(uuid "8d7b4d72-350d-40d9-ab0c-da4b17388bd0")
 		)
-		(pin "21"
+		(pin "X1_2"
 			(uuid "6b5bd5ea-e88d-45a6-aa10-8b3e7a180a9f")
 		)
-		(pin "23"
+		(pin "X2_20"
 			(uuid "7d0597f5-36a1-48a9-a906-9db9a4c06768")
 		)
-		(pin "25"
+		(pin "X1_6"
 			(uuid "eb805b52-541b-4a65-b5fd-372f30883f44")
 		)
-		(pin "12"
+		(pin "X2_11"
 			(uuid "9319409c-4cd6-43b6-af4e-911f45b0b63f")
 		)
-		(pin "24"
+		(pin "X2_13"
 			(uuid "3ae19ee5-7a97-4932-9ecd-3efea8a0c5a4")
 		)
-		(pin "20"
+		(pin "X2_15"
 			(uuid "3a9e2ef7-4a06-463a-8cdf-71703ee99688")
 		)
-		(pin "22"
+		(pin "X2_18"
 			(uuid "ede183fd-aa56-4cd7-9384-83939ea769af")
 		)
-		(pin "9"
+		(pin "X2_14"
 			(uuid "3a52204f-4e87-46b5-bb9c-84c4f2e978d5")
 		)
-		(pin "1"
+		(pin "X1_13"
 			(uuid "68f5c0cf-e2d0-4d19-a5e7-e14d0faaf434")
 		)
-		(pin "11"
+		(pin "X2_16"
 			(uuid "12763d3e-9253-4bcf-bb80-8cf24ba2d3ae")
 		)
-		(pin "26"
+		(pin "X1_16"
 			(uuid "54257804-7775-4b64-ba22-d08ac0de842c")
 		)
-		(pin "21"
+		(pin "X2_21"
 			(uuid "27647c0e-75ec-415a-ad2e-ecfe08eb9ede")
 		)
-		(pin "14"
+		(pin "X2_22"
 			(uuid "e7cd3fa1-18e4-466a-8825-7083e7b2db56")
 		)
-		(pin "27"
+		(pin "X2_1"
 			(uuid "79104cb7-ebf8-46fc-afbd-9d24905eb6cc")
 		)
-		(pin "28"
+		(pin "X2_23"
 			(uuid "dce8497f-a300-4b9c-afcd-da55d2814c86")
 		)
-		(pin "4"
+		(pin "X1_31"
 			(uuid "2c0203a0-0d72-4b8f-923e-6f13d173fd05")
 		)
-		(pin "29"
+		(pin "X1_8"
 			(uuid "ad3b1955-5bee-441e-a5b7-815df767a2bd")
 		)
-		(pin "6"
+		(pin "X1_4"
 			(uuid "3809f6be-8675-4bb3-8299-60f3fa8df053")
 		)
-		(pin "38"
+		(pin "X1_12"
 			(uuid "9065cd42-28be-4340-a860-fa3f5db35cee")
 		)
-		(pin "16"
+		(pin "X1_27"
 			(uuid "de38e6bc-3ab7-403c-996e-7b9d8ea2bbb6")
 		)
-		(pin "18"
+		(pin "X1_15"
 			(uuid "b867e2c5-8388-486e-bca1-cd48fa9a7411")
 		)
-		(pin "22"
+		(pin "X1_19"
 			(uuid "e5ccc244-85e9-45e9-8a62-a9cafc966d42")
 		)
-		(pin "19"
+		(pin "X1_29"
 			(uuid "8630ce53-0be9-4c88-9fb1-fd6925f0c0b0")
 		)
-		(pin "23"
+		(pin "X1_40"
 			(uuid "d68e4fdc-e665-4a4d-8c96-667692c98275")
 		)
-		(pin "18"
+		(pin "X1_37"
 			(uuid "0ccdac9a-9588-4d23-ae84-e986fa736d3c")
 		)
-		(pin "24"
+		(pin "X1_5"
 			(uuid "4ff6d9fa-8774-4153-b975-d61fe1c4ff66")
 		)
-		(pin "3"
+		(pin "X1_36"
 			(uuid "f0c03930-4b77-400a-b938-997cd19e9292")
 		)
-		(pin "15"
+		(pin "X1_9"
 			(uuid "6cf3b29d-db97-4d5c-b805-f9540c08e895")
 		)
-		(pin "13"
+		(pin "X1_24"
 			(uuid "7ac49251-c0ce-484b-a73d-ecfc611873ff")
 		)
-		(pin "37"
+		(pin "X1_20"
 			(uuid "86785e65-b7a7-42d7-b2af-84f5ccd5a8d8")
 		)
-		(pin "31"
+		(pin "X1_14"
 			(uuid "589b365f-b073-4128-b5c6-045a36939a1d")
 		)
-		(pin "39"
+		(pin "X1_21"
 			(uuid "2377d92e-9633-4675-bb34-18dabc034aae")
 		)
-		(pin "33"
+		(pin "X1_38"
 			(uuid "8cf75e21-9061-41ad-a14d-8cfe0e638361")
 		)
-		(pin "1"
+		(pin "X2_38"
 			(uuid "9d40ef90-ecd5-4941-bbaa-247ea0afcdb5")
 		)
-		(pin "2"
+		(pin "X2_24"
 			(uuid "9121cfff-eee5-4df5-a1c2-467b699d8352")
 		)
-		(pin "25"
+		(pin "X1_35"
 			(uuid "46d61734-822c-4d36-851e-b20cb9d07cfb")
 		)
-		(pin "26"
+		(pin "X2_3"
 			(uuid "9244ac35-d311-46f7-b893-d8bd3e36d323")
 		)
-		(pin "3"
+		(pin "X1_1"
 			(uuid "1aa58a5b-f4c4-480c-9830-78a4f9b53f77")
 		)
-		(pin "34"
+		(pin "X2_28"
 			(uuid "34d6f4ac-ac44-444e-ae97-b1c2695ee0b5")
 		)
-		(pin "28"
+		(pin "X1_11"
 			(uuid "2795e196-690f-40a0-9cfd-a724e0ed95d0")
 		)
-		(pin "35"
+		(pin "X2_40"
 			(uuid "39bae766-b02e-49c6-a4bb-76b0105e4cc1")
 		)
-		(pin "10"
+		(pin "X1_17"
 			(uuid "d127128c-9d59-46ff-ab92-2abc50fba7ad")
 		)
-		(pin "40"
+		(pin "X2_19"
 			(uuid "07ce7500-166f-4026-9d92-5133a17d08ef")
 		)
-		(pin "27"
+		(pin "X1_30"
 			(uuid "32d3af6b-e707-4c83-9e1d-c7c961dbca11")
 		)
-		(pin "29"
+		(pin "X2_39"
 			(uuid "d5589d2f-87fd-44cd-a036-3feff7f410b4")
 		)
-		(pin "30"
+		(pin "X2_27"
 			(uuid "25aed5d2-9e15-4c10-8d88-4d60339f2fea")
 		)
-		(pin "11"
+		(pin "X2_4"
 			(uuid "687f758a-8215-489e-8d26-f922ff7a3008")
 		)
-		(pin "5"
+		(pin "X2_36"
 			(uuid "02bb5425-7a00-45f5-a324-773f51b64313")
 		)
-		(pin "7"
+		(pin "X2_29"
 			(uuid "06b72434-3f13-41cc-a956-c12af51a3c08")
 		)
-		(pin "8"
+		(pin "X1_28"
 			(uuid "5d6c8921-55a1-449e-9b74-c648c3a8af2c")
 		)
-		(pin "10"
+		(pin "X1_22"
 			(uuid "63acc3bb-62d7-40bd-a2eb-ce68d8b70c6e")
 		)
-		(pin "12"
+		(pin "X2_25"
 			(uuid "f0505d46-789b-4326-99b8-9add83ab2748")
 		)
-		(pin "13"
+		(pin "X2_30"
 			(uuid "05a51bd0-ab02-427b-9499-00d2c89d46a4")
 		)
-		(pin "14"
+		(pin "X2_8"
 			(uuid "8d01a396-0c84-41d9-b1a1-56c9df8bda2b")
 		)
-		(pin "15"
+		(pin "X2_26"
 			(uuid "b81b9db3-1ae7-4194-9158-d5c5c994ac37")
 		)
-		(pin "17"
+		(pin "X2_9"
 			(uuid "35fb10f1-e609-4e3a-b79b-a9509ca66688")
 		)
-		(pin "16"
+		(pin "X1_32"
 			(uuid "ca077a9f-41bf-4dfe-99ca-b765d434009f")
 		)
-		(pin "17"
+		(pin "X1_39"
 			(uuid "bfc9e333-a186-4f70-9022-b6900ee0cfc7")
 		)
-		(pin "36"
+		(pin "X2_2"
 			(uuid "40dc8e04-cb53-4eca-a80d-802d64fd244c")
 		)
-		(pin "40"
+		(pin "X2_6"
 			(uuid "278eaae9-9fda-46b6-a5c4-3d3b839fca31")
 		)
-		(pin "33"
+		(pin "X1_7"
 			(uuid "232093e2-62d3-4155-bcb3-e2269ba09565")
 		)
-		(pin "31"
+		(pin "X2_12"
 			(uuid "23b30ee6-d193-4f8c-ab3a-d6647d0bef83")
 		)
-		(pin "8"
+		(pin "X1_34"
 			(uuid "fe5c2ee7-4cff-4feb-851e-ec2b0c2af1b2")
 		)
-		(pin "36"
+		(pin "X2_5"
 			(uuid "1f84d8ff-146c-4755-9337-43506327fad2")
 		)
-		(pin "9"
+		(pin "X2_33"
 			(uuid "e23ee46e-dba1-47d0-ad43-46a7b0029fe8")
 		)
-		(pin "30"
+		(pin "X1_33"
 			(uuid "84b223df-a5dd-48f7-967f-f2304411ab97")
 		)
-		(pin "32"
+		(pin "X1_3"
 			(uuid "7b21f637-08fc-466e-8ded-5637a4f62b9b")
 		)
-		(pin "4"
+		(pin "X2_10"
 			(uuid "ab3f8d66-0c65-48a6-a30b-fa455344e080")
 		)
-		(pin "5"
+		(pin "X2_31"
 			(uuid "f2d609fb-316e-4793-a515-72dfb445ba32")
 		)
-		(pin "7"
+		(pin "X1_18"
 			(uuid "dbab541c-b9d0-4a5a-b5c6-cc36f9545cc9")
 		)
-		(pin "38"
+		(pin "X2_32"
 			(uuid "c8f020c1-18a3-4a0e-a48c-fa4070a26b20")
 		)
-		(pin "6"
+		(pin "X2_34"
 			(uuid "7369f4b9-b926-402d-bff6-4cf06cd77cf3")
 		)
-		(pin "35"
+		(pin "X2_35"
 			(uuid "267da372-23ef-48a4-b619-7632691213f5")
 		)
-		(pin "37"
+		(pin "X2_37"
 			(uuid "8bd5b300-baea-4fff-9d22-bad0cb39bbfb")
 		)
-		(pin "39"
+		(pin "X2_7"
 			(uuid "7b2c89e0-5096-4fc1-8a22-85a8427844e2")
 		)
-		(pin "34"
+		(pin "X1_23"
 			(uuid "3d9b4a83-a8d3-4b27-8e8c-51ea060572fa")
 		)
 		(instances

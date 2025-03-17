@@ -2483,6 +2483,7 @@
 	(hierarchical_label "vdc_out"
 		(shape output)
 		(at 231.14 80.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

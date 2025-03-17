@@ -1557,6 +1557,7 @@
 	(hierarchical_label "out_di1"
 		(shape output)
 		(at 205.74 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1568,6 +1569,7 @@
 	(hierarchical_label "out_di2"
 		(shape output)
 		(at 205.74 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1579,6 +1581,7 @@
 	(hierarchical_label "in_di3"
 		(shape input)
 		(at 88.9 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1590,6 +1593,7 @@
 	(hierarchical_label "out_di4"
 		(shape output)
 		(at 205.74 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1601,6 +1605,7 @@
 	(hierarchical_label "out_di3"
 		(shape output)
 		(at 205.74 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1612,6 +1617,7 @@
 	(hierarchical_label "out_Trip"
 		(shape output)
 		(at 205.74 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1623,6 +1629,7 @@
 	(hierarchical_label "in_di1"
 		(shape input)
 		(at 88.9 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1634,6 +1641,7 @@
 	(hierarchical_label "in_di2"
 		(shape input)
 		(at 88.9 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1645,6 +1653,7 @@
 	(hierarchical_label "in_di4"
 		(shape input)
 		(at 88.9 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1656,6 +1665,7 @@
 	(hierarchical_label "in_Trip"
 		(shape input)
 		(at 88.9 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

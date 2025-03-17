@@ -208,6 +208,7 @@
 	(hierarchical_label "DO1_IN"
 		(shape input)
 		(at 76.2 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -219,6 +220,7 @@
 	(hierarchical_label "DO2_IN"
 		(shape input)
 		(at 76.2 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -230,6 +232,7 @@
 	(hierarchical_label "DO2_COM"
 		(shape output)
 		(at 152.4 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -241,6 +244,7 @@
 	(hierarchical_label "DO1_NO"
 		(shape output)
 		(at 152.4 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -252,6 +256,7 @@
 	(hierarchical_label "DO1_NC"
 		(shape output)
 		(at 152.4 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -263,6 +268,7 @@
 	(hierarchical_label "DO2_NC"
 		(shape output)
 		(at 152.4 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -274,6 +280,7 @@
 	(hierarchical_label "DO2_NO"
 		(shape output)
 		(at 152.4 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -285,6 +292,7 @@
 	(hierarchical_label "DO1_COM"
 		(shape output)
 		(at 152.4 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

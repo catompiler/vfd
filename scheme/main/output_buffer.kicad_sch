@@ -2157,6 +2157,7 @@
 	(hierarchical_label "out_do2"
 		(shape output)
 		(at 189.23 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2168,6 +2169,7 @@
 	(hierarchical_label "out_pwm_uh"
 		(shape output)
 		(at 189.23 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2179,6 +2181,7 @@
 	(hierarchical_label "out_pwm_wl"
 		(shape output)
 		(at 189.23 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2190,6 +2193,7 @@
 	(hierarchical_label "out_pwm_vl"
 		(shape output)
 		(at 189.23 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2201,6 +2205,7 @@
 	(hierarchical_label "out_pwm_vh"
 		(shape output)
 		(at 189.23 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2212,6 +2217,7 @@
 	(hierarchical_label "in_do1"
 		(shape input)
 		(at 72.39 137.16 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2223,6 +2229,7 @@
 	(hierarchical_label "in_do2"
 		(shape input)
 		(at 72.39 139.7 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2234,6 +2241,7 @@
 	(hierarchical_label "pwm_oe"
 		(shape input)
 		(at 72.39 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2245,6 +2253,7 @@
 	(hierarchical_label "out_do1"
 		(shape output)
 		(at 189.23 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2256,6 +2265,7 @@
 	(hierarchical_label "in_pwm_wh"
 		(shape input)
 		(at 72.39 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2267,6 +2277,7 @@
 	(hierarchical_label "in_pwm_ul"
 		(shape input)
 		(at 72.39 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2278,6 +2289,7 @@
 	(hierarchical_label "oe"
 		(shape input)
 		(at 72.39 157.48 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2289,6 +2301,7 @@
 	(hierarchical_label "in_pwm_wl"
 		(shape input)
 		(at 72.39 62.23 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2300,6 +2313,7 @@
 	(hierarchical_label "out_pwm_wh"
 		(shape output)
 		(at 189.23 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2311,6 +2325,7 @@
 	(hierarchical_label "in_pwm_vl"
 		(shape input)
 		(at 72.39 57.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2322,6 +2337,7 @@
 	(hierarchical_label "in_pwm_uh"
 		(shape input)
 		(at 72.39 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2333,6 +2349,7 @@
 	(hierarchical_label "in_DCrelay"
 		(shape input)
 		(at 72.39 134.62 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2344,6 +2361,7 @@
 	(hierarchical_label "out_pwm_ul"
 		(shape output)
 		(at 189.23 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2355,6 +2373,7 @@
 	(hierarchical_label "in_pwm_vh"
 		(shape input)
 		(at 72.39 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2366,6 +2385,7 @@
 	(hierarchical_label "out_DCrelay"
 		(shape output)
 		(at 189.23 134.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
