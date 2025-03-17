@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "7a77737d-d008-49c9-8fd7-0681ee334a39")
 	(paper "A4")
+	(title_block
+		(title "Цифровые шины")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)
@@ -1858,6 +1861,17 @@
 			)
 		)
 		(uuid "5f8993cf-6c82-46f5-80cd-a05857bf5780")
+	)
+	(text "CAN"
+		(exclude_from_sim no)
+		(at 122.936 61.976 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "906fd034-a020-4358-bbdb-c33251f1a525")
 	)
 	(hierarchical_label "can_tx"
 		(shape input)

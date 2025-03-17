@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "0680e781-e148-44a2-94fa-c17971f4b4fb")
 	(paper "A4")
+	(title_block
+		(title "Плата KIT_XMC71_EVK_LITE_V1")
+	)
 	(lib_symbols
 		(symbol "KIT_XMC71_EVK_LITE_V1_1"
 			(pin_numbers hide)
@@ -6942,6 +6945,384 @@
 			)
 		)
 	)
+	(wire
+		(pts
+			(xy 212.09 58.42) (xy 213.36 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b9dc476-823f-468d-8e00-802175d26152")
+	)
+	(wire
+		(pts
+			(xy 262.89 81.28) (xy 264.16 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "363daa81-efd9-413f-9f5a-ad5a8b501860")
+	)
+	(wire
+		(pts
+			(xy 59.69 101.6) (xy 60.96 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3efbe30e-09ac-4598-a2a7-199eeae927c5")
+	)
+	(wire
+		(pts
+			(xy 30.48 66.04) (xy 31.75 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f2c43a0-96d5-44b9-a2fe-5a9a3f0d831f")
+	)
+	(wire
+		(pts
+			(xy 212.09 55.88) (xy 213.36 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5143b8ae-e037-4fee-a909-06fe38757c0f")
+	)
+	(wire
+		(pts
+			(xy 123.19 63.5) (xy 124.46 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66347f96-3044-478e-b61d-b2e625b1ec0b")
+	)
+	(wire
+		(pts
+			(xy 212.09 63.5) (xy 213.36 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c719b66-143f-464e-91d3-eccd1634ffdc")
+	)
+	(wire
+		(pts
+			(xy 212.09 60.96) (xy 213.36 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74f83d38-036b-41ef-8215-32c109c15db3")
+	)
+	(wire
+		(pts
+			(xy 262.89 85.09) (xy 264.16 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "756f1da2-738d-466f-8f03-aff1e51d5632")
+	)
+	(wire
+		(pts
+			(xy 123.19 60.96) (xy 124.46 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ba5e5c9-f68a-4847-ac2f-be59f192836b")
+	)
+	(wire
+		(pts
+			(xy 262.89 73.66) (xy 264.16 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e1e4d92-2fc5-41a5-9f5d-3e33078b3fde")
+	)
+	(wire
+		(pts
+			(xy 123.19 66.04) (xy 124.46 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a10f362d-90b8-45d6-ab5b-0ac97afb47e2")
+	)
+	(wire
+		(pts
+			(xy 30.48 58.42) (xy 31.75 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd9b30bf-a2f1-4dd2-b994-75ce53f18eb5")
+	)
+	(wire
+		(pts
+			(xy 73.66 58.42) (xy 74.93 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5ddb45b-d058-4097-8288-a11fea4eed74")
+	)
+	(wire
+		(pts
+			(xy 262.89 88.9) (xy 264.16 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9db6f97-a334-42c0-aa60-2457caffb23f")
+	)
+	(wire
+		(pts
+			(xy 262.89 77.47) (xy 264.16 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5e7b072-3d07-4910-8eb3-fbbcb97afeef")
+	)
+	(wire
+		(pts
+			(xy 30.48 62.23) (xy 31.75 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa17de40-c32c-4bdd-9e1c-50cab5f4cdc7")
+	)
+	(wire
+		(pts
+			(xy 262.89 69.85) (xy 264.16 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa49c3bd-20d0-4cd6-bd2a-e378734924a6")
+	)
+	(label "PWM0_M_2"
+		(at 212.09 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "05397a81-4b0c-4171-8e8c-2586dae77139")
+	)
+	(label "PWM0_M_2_N"
+		(at 212.09 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4e758a26-223e-45fb-bf57-e79a6a3e06d3")
+	)
+	(label "ADC_2_M"
+		(at 124.46 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "598710d7-18d7-48e7-91c6-cec49a7eb1b2")
+	)
+	(label "ADC_0_M"
+		(at 124.46 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b15275a-bc2d-4682-9bb0-66942265a5e1")
+	)
+	(label "PWM0_M_0"
+		(at 262.89 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7ab3bfa7-a509-4794-90b4-938ad60282d2")
+	)
+	(label "PWM0_M_0_N"
+		(at 212.09 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "87b26356-2cc0-46f4-b9e8-47ef1381f54d")
+	)
+	(label "PWM0_M_2"
+		(at 262.89 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "892a1bb2-4971-46a8-ab2c-8a47230f40e8")
+	)
+	(label "PWM0_M_4_N"
+		(at 74.93 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "94419235-1798-46f8-b5ee-08970a9e2a6d")
+	)
+	(label "PWM0_M_4_N"
+		(at 262.89 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c67b283-115a-4a85-9646-8f7b8a32fbcc")
+	)
+	(label "PWM0_M_0_N"
+		(at 262.89 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9e1ce6ee-308b-410c-9ef8-5a2e309fc43c")
+	)
+	(label "PWM0_M_0"
+		(at 212.09 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a41a7fe5-fd35-40b8-8359-d0633bc9db1d")
+	)
+	(label "ADC_1_M"
+		(at 31.75 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b5f68312-13a4-4b5a-96f5-c4ce0975e07b")
+	)
+	(label "ADC_0_M"
+		(at 31.75 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b944c033-48c5-42e9-8d4b-be100059efb7")
+	)
+	(label "ADC_1_M"
+		(at 124.46 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c77ca11e-bbda-44cf-8874-0e9ebb2bc9b2")
+	)
+	(label "PWM0_M_4"
+		(at 59.69 101.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d21679d9-d44e-43f7-be57-1128c9542d33")
+	)
+	(label "PWM0_M_2_N"
+		(at 262.89 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "daf5db21-1c6f-489d-bedf-f22f157c1f50")
+	)
+	(label "ADC_2_M"
+		(at 31.75 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eb3362d9-8c9a-4239-b9d1-c8aa49c7fe39")
+	)
+	(label "PWM0_M_4"
+		(at 262.89 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f9124d96-c13f-47e3-8419-46f20ec7287f")
+	)
 	(hierarchical_label "Trip"
 		(shape input)
 		(at 30.48 77.47 180)
@@ -7226,10 +7607,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "06d73b0a-e012-45bf-80fe-2274ac5a277d")
 		(property "Reference" "BRD3"
-			(at 168.91 67.3099 0)
+			(at 162.814 51.562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7238,7 +7618,7 @@
 			)
 		)
 		(property "Value" "KIT_XMC71_EVK_LITE_V1"
-			(at 168.91 69.8499 0)
+			(at 154.94 54.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7628,7 +8008,7 @@
 		(lib_name "KIT_XMC71_EVK_LITE_V1_1")
 		(lib_id "main:KIT_XMC71_EVK_LITE_V1")
 		(at 67.31 81.28 0)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -8024,7 +8404,7 @@
 			(project ""
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/e3db07b5-d47c-4d55-bf51-a423335924fb/c4509caf-b793-4aa2-ac34-51fa006ccfd9"
 					(reference "BRD3")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -8037,10 +8417,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "51ba1000-edb9-44c5-b006-0c4e3e808ba1")
 		(property "Reference" "BRD3"
-			(at 168.91 95.2499 0)
+			(at 163.068 108.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8049,7 +8428,7 @@
 			)
 		)
 		(property "Value" "KIT_XMC71_EVK_LITE_V1"
-			(at 168.91 97.7899 0)
+			(at 154.686 111.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9251,10 +9630,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f864ea1f-182c-40e2-a671-4ba08fdf8966")
 		(property "Reference" "BRD3"
-			(at 118.11 81.28 0)
+			(at 118.11 108.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9262,7 +9640,7 @@
 			)
 		)
 		(property "Value" "KIT_XMC71_EVK_LITE_V1"
-			(at 118.11 83.82 0)
+			(at 118.11 111.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)

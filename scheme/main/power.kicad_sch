@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "2bf84ea7-72f6-4d49-a5ce-f23c9ef828e4")
 	(paper "A4")
+	(title_block
+		(title "Питание")
+	)
 	(lib_symbols
 		(symbol "Converter_ACDC:IRM-20-24"
 			(exclude_from_sim no)

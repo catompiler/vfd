@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "472233f9-3069-4afd-8b64-08dae2112991")
 	(paper "A4")
+	(title_block
+		(title "Выпрямитель и звено постоянного тока")
+	)
 	(lib_symbols
 		(symbol "Device:C_Polarized"
 			(pin_numbers hide)

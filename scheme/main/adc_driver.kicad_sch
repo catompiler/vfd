@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "7b5cd1bc-1dfd-4aef-a991-0d1697b05929")
 	(paper "A4")
+	(title_block
+		(title "Драйвер АЦП")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

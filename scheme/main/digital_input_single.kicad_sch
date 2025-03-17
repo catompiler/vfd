@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "83837314-4647-4b2b-8812-4debc57932aa")
 	(paper "A4")
+	(title_block
+		(title "Цифровой вход")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

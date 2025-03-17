@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "642660f4-8b07-42c3-befd-f83917efd712")
 	(paper "A4")
+	(title_block
+		(title "Измерение напряжения звена постоянного тока")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

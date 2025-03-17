@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "07a06174-324b-4c9b-9645-b13a380b53f0")
 	(paper "A4")
+	(title_block
+		(title "Цифровые входы")
+	)
 	(lib_symbols
 		(symbol "power:+24V"
 			(power)

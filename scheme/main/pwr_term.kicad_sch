@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "33795e8f-f24e-4046-a2f7-073c1fb4cdcb")
 	(paper "A4")
+	(title_block
+		(title "Силовой клеммник")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x06"
 			(pin_names

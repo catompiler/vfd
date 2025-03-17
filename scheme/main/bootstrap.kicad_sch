@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "478bc575-9ec8-4a82-b29d-f9d69985da6e")
 	(paper "A4")
+	(title_block
+		(title "Питание драйверов верхних ключей")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

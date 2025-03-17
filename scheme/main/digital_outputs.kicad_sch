@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "5c45ffd2-ec52-45f9-9504-6a5dea9be9ee")
 	(paper "A4")
+	(title_block
+		(title "Цифровые выходы")
+	)
 	(lib_symbols)
 	(wire
 		(pts

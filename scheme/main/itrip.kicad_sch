@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "bef7baf7-2fca-4dbd-8a3a-2154da64c587")
 	(paper "A4")
+	(title_block
+		(title "Токовая защита")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

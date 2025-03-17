@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "1c2a3581-8a27-466a-9774-22df0055fd7e")
 	(paper "A4")
+	(title_block
+		(title "Клеммник цифровых входов")
+	)
 	(lib_symbols
 		(symbol "main:DG141V-2.54-08P"
 			(exclude_from_sim no)

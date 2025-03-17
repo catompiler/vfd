@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "04c8c8fd-0d54-42fd-9b45-819499a74613")
 	(paper "A4")
+	(title_block
+		(title "Плата KIT_XMC47_RELAX_V1")
+	)
 	(lib_symbols
 		(symbol "Device:R"
 			(pin_numbers hide)
@@ -4738,7 +4741,7 @@
 	(symbol
 		(lib_id "main:KIT_XMC47_RELAX_V1")
 		(at 123.19 69.85 0)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5032,7 +5035,7 @@
 			(project ""
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/e3db07b5-d47c-4d55-bf51-a423335924fb/037f9fd3-aec8-42fc-8807-97ab6f40e6e8"
 					(reference "BRD2")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -5261,7 +5264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "main:XMC47_RELAX_KIT_V1"
 			(at 181.61 69.85 0)
 			(effects
 				(font

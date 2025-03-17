@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "061c2436-3183-4165-bb0a-5855a2d561da")
 	(paper "A4")
+	(title_block
+		(title "Датчик температуры и выход ошибки")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

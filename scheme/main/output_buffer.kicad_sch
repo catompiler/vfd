@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "8a9fa2aa-75ab-453d-a83c-69d2d98029be")
 	(paper "A4")
+	(title_block
+		(title "Выходные буферы")
+	)
 	(lib_symbols
 		(symbol "74xx:74HC244"
 			(exclude_from_sim no)
