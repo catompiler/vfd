@@ -5729,7 +5729,7 @@
 				)
 			)
 		)
-		(property "Value" "Fuse"
+		(property "Value" "1A"
 			(at 46.99 31.75 90)
 			(effects
 				(font
