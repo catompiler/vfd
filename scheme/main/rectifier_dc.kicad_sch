@@ -3908,7 +3908,6 @@
 	(hierarchical_label "L"
 		(shape input)
 		(at 31.75 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3920,7 +3919,6 @@
 	(hierarchical_label "dc_relay"
 		(shape input)
 		(at 69.85 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3932,7 +3930,6 @@
 	(hierarchical_label "N"
 		(shape input)
 		(at 31.75 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

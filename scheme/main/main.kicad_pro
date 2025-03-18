@@ -387,7 +387,7 @@
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Value"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -431,31 +431,7 @@
   "sheets": [
     [
       "c11d1dbc-4db9-4712-8d1d-5f6f7086cded",
-      "Корневой лист"
-    ],
-    [
-      "236c27c1-9285-48af-b94c-0a581f89ad4f",
-      "Current Sense U"
-    ],
-    [
-      "4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a",
-      "Current Filter U"
-    ],
-    [
-      "1bd0e084-5602-43f5-a9de-9167dc3ddabf",
-      "Current Sense V"
-    ],
-    [
-      "b143e45b-d52c-4c1e-956d-7828de21cc22",
-      "Current Filter V"
-    ],
-    [
-      "eb061644-a076-485c-afde-65b59d5b34e4",
-      "Current Sense W"
-    ],
-    [
-      "5abad072-255e-43b5-81ad-39000e042b96",
-      "Current Filter W"
+      "Root"
     ],
     [
       "5d407613-ca47-4478-86ea-137e1786be86",
@@ -482,68 +458,12 @@
       "control_isol"
     ],
     [
-      "65f1abf4-f16e-41b7-92a2-6e9eb3d99d97",
-      "vdc_meas"
+      "3ed469bd-720e-4d16-a68e-372d2678e355",
+      "IPM_Temp"
     ],
     [
-      "f37982a3-337b-429f-abb6-a84102507a70",
-      "Power"
-    ],
-    [
-      "529e7c08-d17e-4397-8cce-ee2a0c13f81d",
-      "Rectifier_dc"
-    ],
-    [
-      "95789226-49ac-48bd-87d5-f3fb8512f467",
-      "pwr_term"
-    ],
-    [
-      "bedea6de-a196-4917-ba70-c071156ad9b9",
-      "digital_inputs"
-    ],
-    [
-      "a9420b45-d901-4429-a945-3bcdca919a43",
-      "DI1"
-    ],
-    [
-      "9dc33930-f682-4ed1-a57d-b39bd6b7930d",
-      "DI2"
-    ],
-    [
-      "31162724-615b-46ba-8c0e-f604e9ec35b9",
-      "DI3"
-    ],
-    [
-      "bd001503-3ad8-4979-953f-3e7ea894eb19",
-      "DI4"
-    ],
-    [
-      "7d40f93b-18df-4406-a354-a8dac5c853e3",
-      "digital_outputs"
-    ],
-    [
-      "97aa0c6a-3040-4632-b51b-83025e12675d",
-      "DOUT1"
-    ],
-    [
-      "3b4724af-5e0f-4268-8add-081fe7c242d8",
-      "DOUT2"
-    ],
-    [
-      "5fa6ede8-f1b3-46e0-b9d4-c21c084d88c4",
-      "digital_output_term"
-    ],
-    [
-      "4cfe507b-a3ab-4a86-b86e-4fb85889813e",
-      "digital_input_term"
-    ],
-    [
-      "f94cdf73-8990-4542-b860-07ed38f8101b",
-      "bus_term"
-    ],
-    [
-      "dd58f61f-c5ca-456a-ab08-38b10841227b",
-      "bus"
+      "62915f44-043a-4126-9475-3b614f12e7e0",
+      "IPM Fault"
     ],
     [
       "e3db07b5-d47c-4d55-bf51-a423335924fb",
@@ -582,20 +502,116 @@
       "adc_driver_Temp"
     ],
     [
-      "520906bd-83a5-460c-87a5-c5c25b3f3979",
-      "output_buffer"
+      "6f38c125-f09b-491c-88ab-52a329a77855",
+      "adc_driver_ain0"
     ],
     [
       "5dbec08d-259e-45ab-8ace-97c4464fd3ae",
       "input_buffer"
     ],
     [
-      "3ed469bd-720e-4d16-a68e-372d2678e355",
-      "IPM_Temp"
+      "520906bd-83a5-460c-87a5-c5c25b3f3979",
+      "output_buffer"
     ],
     [
-      "62915f44-043a-4126-9475-3b614f12e7e0",
-      "IPM Fault"
+      "236c27c1-9285-48af-b94c-0a581f89ad4f",
+      "Current Sense U"
+    ],
+    [
+      "4b1be1b1-dfa5-4b57-a4fe-e097b3b33d8a",
+      "Current Filter U"
+    ],
+    [
+      "1bd0e084-5602-43f5-a9de-9167dc3ddabf",
+      "Current Sense V"
+    ],
+    [
+      "b143e45b-d52c-4c1e-956d-7828de21cc22",
+      "Current Filter V"
+    ],
+    [
+      "eb061644-a076-485c-afde-65b59d5b34e4",
+      "Current Sense W"
+    ],
+    [
+      "5abad072-255e-43b5-81ad-39000e042b96",
+      "Current Filter W"
+    ],
+    [
+      "65f1abf4-f16e-41b7-92a2-6e9eb3d99d97",
+      "vdc_meas"
+    ],
+    [
+      "f37982a3-337b-429f-abb6-a84102507a70",
+      "Power"
+    ],
+    [
+      "529e7c08-d17e-4397-8cce-ee2a0c13f81d",
+      "Rectifier_dc"
+    ],
+    [
+      "95789226-49ac-48bd-87d5-f3fb8512f467",
+      "pwr_term"
+    ],
+    [
+      "dd58f61f-c5ca-456a-ab08-38b10841227b",
+      "bus"
+    ],
+    [
+      "f94cdf73-8990-4542-b860-07ed38f8101b",
+      "bus_term"
+    ],
+    [
+      "bedea6de-a196-4917-ba70-c071156ad9b9",
+      "digital_inputs"
+    ],
+    [
+      "a9420b45-d901-4429-a945-3bcdca919a43",
+      "DI1"
+    ],
+    [
+      "9dc33930-f682-4ed1-a57d-b39bd6b7930d",
+      "DI2"
+    ],
+    [
+      "31162724-615b-46ba-8c0e-f604e9ec35b9",
+      "DI3"
+    ],
+    [
+      "bd001503-3ad8-4979-953f-3e7ea894eb19",
+      "DI4"
+    ],
+    [
+      "4cfe507b-a3ab-4a86-b86e-4fb85889813e",
+      "digital_input_term"
+    ],
+    [
+      "7d40f93b-18df-4406-a354-a8dac5c853e3",
+      "digital_outputs"
+    ],
+    [
+      "97aa0c6a-3040-4632-b51b-83025e12675d",
+      "DOUT1"
+    ],
+    [
+      "3b4724af-5e0f-4268-8add-081fe7c242d8",
+      "DOUT2"
+    ],
+    [
+      "5fa6ede8-f1b3-46e0-b9d4-c21c084d88c4",
+      "digital_output_term"
+    ],
+    [
+      "c878413c-9cd2-4a65-a83b-1662558de8fc",
+      "analog_input"
+    ],
+    [
+      "c475e31e-8d2e-4349-b09e-bb38d3541ffe",
+      "analog_input_filter"
+    ],
+    [
+      "dc7a61ac-f968-4d36-bce9-d86784f02fd6",
+      "analog_input_term"
     ]
   ],
   "text_variables": {}

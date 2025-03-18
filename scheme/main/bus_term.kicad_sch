@@ -316,7 +316,6 @@
 	(hierarchical_label "can_hi"
 		(shape bidirectional)
 		(at 128.27 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -328,7 +327,6 @@
 	(hierarchical_label "can_lo"
 		(shape bidirectional)
 		(at 128.27 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

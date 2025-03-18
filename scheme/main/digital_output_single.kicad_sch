@@ -1470,7 +1470,6 @@
 	(hierarchical_label "OUT_NO"
 		(shape output)
 		(at 179.07 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1482,7 +1481,6 @@
 	(hierarchical_label "OUT_COM"
 		(shape output)
 		(at 179.07 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1494,7 +1492,6 @@
 	(hierarchical_label "OUT_NC"
 		(shape output)
 		(at 179.07 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1506,7 +1503,6 @@
 	(hierarchical_label "OUT_IN"
 		(shape input)
 		(at 107.95 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

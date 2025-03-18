@@ -7315,7 +7315,7 @@
 		(uuid "0ba427a8-39c4-4dd3-9104-61289cd51bcc")
 	)
 	(no_connect
-		(at 30.48 99.06)
+		(at 30.48 105.41)
 		(uuid "11077bc7-130f-470b-a3fe-1f6d40dfdcab")
 	)
 	(no_connect
@@ -7355,7 +7355,7 @@
 		(uuid "2ecc06fe-6fab-444c-9f42-ad9cb67e517a")
 	)
 	(no_connect
-		(at 226.06 88.9)
+		(at 226.06 83.82)
 		(uuid "2f8ed71a-fad2-42ed-a6a4-0d22a69e2c17")
 	)
 	(no_connect
@@ -7397,10 +7397,6 @@
 	(no_connect
 		(at 226.06 73.66)
 		(uuid "5ad5acae-2bc0-4515-892c-22e23d018de3")
-	)
-	(no_connect
-		(at 226.06 83.82)
-		(uuid "5b653397-8b63-461f-9318-1fa0168a4cda")
 	)
 	(no_connect
 		(at 73.66 60.96)
@@ -7499,7 +7495,7 @@
 		(uuid "95a8cd0f-e7e4-495c-82ad-c120e5b58358")
 	)
 	(no_connect
-		(at 30.48 102.87)
+		(at 30.48 109.22)
 		(uuid "95eabfd1-79b5-47a1-928f-f39677b06547")
 	)
 	(no_connect
@@ -7642,7 +7638,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 88.9) (xy 31.75 88.9)
+			(xy 30.48 95.25) (xy 31.75 95.25)
 		)
 		(stroke
 			(width 0)
@@ -7722,7 +7718,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 85.09) (xy 31.75 85.09)
+			(xy 30.48 91.44) (xy 31.75 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7882,6 +7878,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 77.47) (xy 31.75 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55386182-8f9d-4089-b3c0-9093ce7eabc7")
+	)
+	(wire
+		(pts
 			(xy 59.69 63.5) (xy 60.96 63.5)
 		)
 		(stroke
@@ -7892,7 +7898,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 77.47) (xy 31.75 77.47)
+			(xy 30.48 83.82) (xy 31.75 83.82)
 		)
 		(stroke
 			(width 0)
@@ -7972,7 +7978,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 81.28) (xy 31.75 81.28)
+			(xy 30.48 87.63) (xy 31.75 87.63)
 		)
 		(stroke
 			(width 0)
@@ -8102,6 +8108,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 88.9) (xy 227.33 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b628d5e2-dc31-4b4f-89ff-603c3d2b69d5")
+	)
+	(wire
+		(pts
 			(xy 134.62 81.28) (xy 134.62 82.55)
 		)
 		(stroke
@@ -8132,7 +8148,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 92.71) (xy 31.75 92.71)
+			(xy 30.48 99.06) (xy 31.75 99.06)
 		)
 		(stroke
 			(width 0)
@@ -8292,7 +8308,6 @@
 	)
 	(label "DI_1"
 		(at 212.09 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8303,7 +8318,6 @@
 	)
 	(label "PWM0_M_2"
 		(at 212.09 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8313,8 +8327,7 @@
 		(uuid "05397a81-4b0c-4171-8e8c-2586dae77139")
 	)
 	(label "DI_3"
-		(at 31.75 92.71 0)
-		(fields_autoplaced yes)
+		(at 31.75 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8325,7 +8338,6 @@
 	)
 	(label "DO_1"
 		(at 262.89 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8336,7 +8348,6 @@
 	)
 	(label "DC_RELAY"
 		(at 262.89 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8347,7 +8358,6 @@
 	)
 	(label "ADC_1_31"
 		(at 212.09 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8358,7 +8368,6 @@
 	)
 	(label "OE"
 		(at 262.89 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8367,9 +8376,18 @@
 		)
 		(uuid "1ac0a73f-3344-4532-8a7b-bd8c058be52a")
 	)
+	(label "ADC_0_28"
+		(at 227.33 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1bcd21aa-cc9c-4c86-946d-8bb620b517d5")
+	)
 	(label "ADC_1_31"
 		(at 31.75 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8380,7 +8398,6 @@
 	)
 	(label "PWM0_M_2_N"
 		(at 212.09 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8391,7 +8408,6 @@
 	)
 	(label "DI_2"
 		(at 212.09 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8402,7 +8418,6 @@
 	)
 	(label "ADC_2_M"
 		(at 124.46 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8413,7 +8428,6 @@
 	)
 	(label "DO_0"
 		(at 212.09 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8424,7 +8438,6 @@
 	)
 	(label "ADC_0_M"
 		(at 124.46 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8435,7 +8448,6 @@
 	)
 	(label "PWM0_M_0"
 		(at 262.89 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8445,8 +8457,7 @@
 		(uuid "7ab3bfa7-a509-4794-90b4-938ad60282d2")
 	)
 	(label "DI_2"
-		(at 31.75 88.9 0)
-		(fields_autoplaced yes)
+		(at 31.75 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8457,7 +8468,6 @@
 	)
 	(label "PWM0_M_0_N"
 		(at 212.09 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8468,7 +8478,6 @@
 	)
 	(label "PWM0_M_2"
 		(at 262.89 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8479,7 +8488,6 @@
 	)
 	(label "DI_0"
 		(at 212.09 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8490,7 +8498,6 @@
 	)
 	(label "PWM0_M_4_N"
 		(at 74.93 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8500,8 +8507,7 @@
 		(uuid "94419235-1798-46f8-b5ee-08970a9e2a6d")
 	)
 	(label "DI_0"
-		(at 31.75 81.28 0)
-		(fields_autoplaced yes)
+		(at 31.75 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8512,7 +8518,6 @@
 	)
 	(label "PWM0_M_4_N"
 		(at 262.89 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8523,7 +8528,6 @@
 	)
 	(label "PWM0_M_0_N"
 		(at 262.89 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8534,7 +8538,6 @@
 	)
 	(label "ADC_0_32"
 		(at 227.33 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8545,7 +8548,6 @@
 	)
 	(label "PWM0_M_0"
 		(at 212.09 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8556,7 +8558,6 @@
 	)
 	(label "DO_0"
 		(at 262.89 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8567,7 +8568,6 @@
 	)
 	(label "PWM_OE"
 		(at 59.69 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8577,8 +8577,7 @@
 		(uuid "a8504d84-6d9c-4f88-8583-e847c611ba35")
 	)
 	(label "DI_1"
-		(at 31.75 85.09 0)
-		(fields_autoplaced yes)
+		(at 31.75 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8589,7 +8588,6 @@
 	)
 	(label "OE"
 		(at 59.69 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8600,7 +8598,6 @@
 	)
 	(label "TRIG_IN_0"
 		(at 212.09 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8611,7 +8608,6 @@
 	)
 	(label "ADC_1_M"
 		(at 31.75 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8620,9 +8616,18 @@
 		)
 		(uuid "b5f68312-13a4-4b5a-96f5-c4ce0975e07b")
 	)
+	(label "ADC_0_28"
+		(at 31.75 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b8b9cbb4-8dff-4f12-b411-88f34630aabf")
+	)
 	(label "ADC_0_M"
 		(at 31.75 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8633,7 +8638,6 @@
 	)
 	(label "DI_3"
 		(at 212.09 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8644,7 +8648,6 @@
 	)
 	(label "DC_RELAY"
 		(at 59.69 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8655,7 +8658,6 @@
 	)
 	(label "ADC_1_M"
 		(at 124.46 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8666,7 +8668,6 @@
 	)
 	(label "PWM_OE"
 		(at 262.89 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8677,7 +8678,6 @@
 	)
 	(label "PWM0_M_4"
 		(at 59.69 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8688,7 +8688,6 @@
 	)
 	(label "PWM0_M_2_N"
 		(at 262.89 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8699,7 +8698,6 @@
 	)
 	(label "ADC_0_32"
 		(at 31.75 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8710,7 +8708,6 @@
 	)
 	(label "DO_1"
 		(at 212.09 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8721,7 +8718,6 @@
 	)
 	(label "ADC_2_M"
 		(at 31.75 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8731,8 +8727,7 @@
 		(uuid "eb3362d9-8c9a-4239-b9d1-c8aa49c7fe39")
 	)
 	(label "TRIG_IN_0"
-		(at 31.75 77.47 0)
-		(fields_autoplaced yes)
+		(at 31.75 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8743,7 +8738,6 @@
 	)
 	(label "PWM0_M_4"
 		(at 262.89 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8754,8 +8748,7 @@
 	)
 	(hierarchical_label "Trip"
 		(shape input)
-		(at 30.48 77.47 180)
-		(fields_autoplaced yes)
+		(at 30.48 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8766,8 +8759,7 @@
 	)
 	(hierarchical_label "di1"
 		(shape input)
-		(at 30.48 81.28 180)
-		(fields_autoplaced yes)
+		(at 30.48 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8779,7 +8771,6 @@
 	(hierarchical_label "pwm_oe"
 		(shape output)
 		(at 264.16 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8790,8 +8781,7 @@
 	)
 	(hierarchical_label "di2"
 		(shape input)
-		(at 30.48 85.09 180)
-		(fields_autoplaced yes)
+		(at 30.48 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8803,7 +8793,6 @@
 	(hierarchical_label "Iv"
 		(shape input)
 		(at 30.48 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8815,7 +8804,6 @@
 	(hierarchical_label "pwm_ul"
 		(shape output)
 		(at 264.16 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8827,7 +8815,6 @@
 	(hierarchical_label "pwm_uh"
 		(shape output)
 		(at 264.16 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8838,8 +8825,7 @@
 	)
 	(hierarchical_label "di4"
 		(shape input)
-		(at 30.48 92.71 180)
-		(fields_autoplaced yes)
+		(at 30.48 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8848,10 +8834,20 @@
 		)
 		(uuid "34d8b05c-1040-410f-a9fa-1e7ae6a3d421")
 	)
+	(hierarchical_label "ain0"
+		(shape input)
+		(at 30.48 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4cf7e295-71b0-47e9-8947-042a06aac323")
+	)
 	(hierarchical_label "pwm_vl"
 		(shape output)
 		(at 264.16 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8863,7 +8859,6 @@
 	(hierarchical_label "do2"
 		(shape output)
 		(at 264.16 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8875,7 +8870,6 @@
 	(hierarchical_label "Iw"
 		(shape input)
 		(at 30.48 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8887,7 +8881,6 @@
 	(hierarchical_label "pwm_vh"
 		(shape output)
 		(at 264.16 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8899,7 +8892,6 @@
 	(hierarchical_label "DCrelay"
 		(shape output)
 		(at 264.16 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8911,7 +8903,6 @@
 	(hierarchical_label "oe"
 		(shape output)
 		(at 264.16 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8922,8 +8913,7 @@
 	)
 	(hierarchical_label "can_rx"
 		(shape output)
-		(at 30.48 102.87 180)
-		(fields_autoplaced yes)
+		(at 30.48 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8935,7 +8925,6 @@
 	(hierarchical_label "Udc"
 		(shape input)
 		(at 30.48 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8947,7 +8936,6 @@
 	(hierarchical_label "Iu"
 		(shape input)
 		(at 30.48 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8959,7 +8947,6 @@
 	(hierarchical_label "pwm_wh"
 		(shape output)
 		(at 264.16 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8970,8 +8957,7 @@
 	)
 	(hierarchical_label "can_tx"
 		(shape input)
-		(at 30.48 99.06 180)
-		(fields_autoplaced yes)
+		(at 30.48 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8983,7 +8969,6 @@
 	(hierarchical_label "Temp"
 		(shape input)
 		(at 30.48 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8995,7 +8980,6 @@
 	(hierarchical_label "pwm_wl"
 		(shape output)
 		(at 264.16 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9007,7 +8991,6 @@
 	(hierarchical_label "do1"
 		(shape output)
 		(at 264.16 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9018,8 +9001,7 @@
 	)
 	(hierarchical_label "di3"
 		(shape input)
-		(at 30.48 88.9 180)
-		(fields_autoplaced yes)
+		(at 30.48 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)

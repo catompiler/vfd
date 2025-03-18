@@ -454,7 +454,6 @@
 	(hierarchical_label "DI3+"
 		(shape output)
 		(at 189.23 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -466,7 +465,6 @@
 	(hierarchical_label "DI1+"
 		(shape output)
 		(at 189.23 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -478,7 +476,6 @@
 	(hierarchical_label "DI2+"
 		(shape output)
 		(at 189.23 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -490,7 +487,6 @@
 	(hierarchical_label "24V"
 		(shape input)
 		(at 152.4 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -502,7 +498,6 @@
 	(hierarchical_label "DI4+"
 		(shape output)
 		(at 189.23 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

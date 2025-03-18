@@ -2455,7 +2455,6 @@
 	(hierarchical_label "vfo"
 		(shape input)
 		(at 22.86 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2467,7 +2466,6 @@
 	(hierarchical_label "Temp"
 		(shape output)
 		(at 231.14 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

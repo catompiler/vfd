@@ -1,0 +1,108 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "fbc7346d-2e00-43b8-a287-5fb06bdfc3af")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 157.48 95.25) (xy 166.37 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28c1a6b9-ee77-4103-a0a4-d86599d4a9d8")
+	)
+	(wire
+		(pts
+			(xy 114.3 95.25) (xy 123.19 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0bf8237-ae24-42df-a487-fb98e4623b7d")
+	)
+	(hierarchical_label "AIN0_IN"
+		(shape input)
+		(at 114.3 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7486fed1-c5e5-473e-8a15-9ddf28813f83")
+	)
+	(hierarchical_label "AIN0_OUT"
+		(shape output)
+		(at 166.37 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dbb6ab3b-6570-413e-8c19-35b8fb811702")
+	)
+	(sheet
+		(at 123.19 91.44)
+		(size 34.29 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c475e31e-8d2e-4349-b09e-bb38d3541ffe")
+		(property "Sheetname" "analog_input_filter"
+			(at 123.19 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "analog_input_filter.kicad_sch"
+			(at 123.19 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" passive
+			(at 157.48 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a6e265aa-6cb3-4367-960c-78538fbeff39")
+		)
+		(pin "IN" passive
+			(at 123.19 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7856bc35-4b1e-4928-b40c-87d8a20b3cdc")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/c878413c-9cd2-4a65-a83b-1662558de8fc"
+					(page "45")
+				)
+			)
+		)
+	)
+)
