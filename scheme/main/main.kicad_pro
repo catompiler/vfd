@@ -387,7 +387,7 @@
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "${QUANTITY}"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -476,10 +476,6 @@
     [
       "9cc54317-9719-471d-99c6-61bdaec9c6c9",
       "itrip"
-    ],
-    [
-      "80738a43-c598-4f09-a725-55d3789b6a7d",
-      "Vfo"
     ],
     [
       "9ccbc314-e027-42d4-9a9d-e9d747352443",
@@ -592,6 +588,14 @@
     [
       "5dbec08d-259e-45ab-8ace-97c4464fd3ae",
       "input_buffer"
+    ],
+    [
+      "3ed469bd-720e-4d16-a68e-372d2678e355",
+      "IPM_Temp"
+    ],
+    [
+      "62915f44-043a-4126-9475-3b614f12e7e0",
+      "IPM Fault"
     ]
   ],
   "text_variables": {}

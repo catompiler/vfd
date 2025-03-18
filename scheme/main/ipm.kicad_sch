@@ -144,6 +144,127 @@
 				)
 			)
 		)
+		(symbol "Device:R"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "main:GNDH"
 			(power)
 			(pin_numbers hide)
@@ -853,6 +974,126 @@
 				)
 			)
 		)
+		(symbol "power:+5P"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5P"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5P\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5P_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5P_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+VDC"
 			(power)
 			(pin_numbers hide)
@@ -1159,6 +1400,12 @@
 		(color 0 0 0 0)
 		(uuid "c13b55c0-dcb5-4718-a6b4-07c4aa8c32d8")
 	)
+	(junction
+		(at 160.02 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea232076-e731-4a95-8b45-1ac73b46677d")
+	)
 	(wire
 		(pts
 			(xy 208.28 132.08) (xy 208.28 153.67)
@@ -1188,6 +1435,16 @@
 			(type default)
 		)
 		(uuid "0e153006-0cc1-4430-b2a1-b37730df88a9")
+	)
+	(wire
+		(pts
+			(xy 160.02 181.61) (xy 160.02 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1307912c-b8a0-4791-b142-8b965245bf24")
 	)
 	(wire
 		(pts
@@ -1251,6 +1508,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 177.8) (xy 154.94 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2658cdbd-eefb-4d63-869e-7a2914cd4f1e")
+	)
+	(wire
+		(pts
 			(xy 203.2 142.24) (xy 203.2 158.75)
 		)
 		(stroke
@@ -1311,16 +1578,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 181.61) (xy 176.53 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3896b9b9-f25d-4ec2-b2ae-bffd09b5ef1f")
-	)
-	(wire
-		(pts
 			(xy 200.66 101.6) (xy 205.74 101.6)
 		)
 		(stroke
@@ -1371,6 +1628,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 181.61) (xy 160.02 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5175600e-5ca5-4eb4-b04f-e5ebd8d09a83")
+	)
+	(wire
+		(pts
 			(xy 162.56 139.7) (xy 170.18 139.7)
 		)
 		(stroke
@@ -1378,6 +1645,16 @@
 			(type default)
 		)
 		(uuid "543fdc7a-0c75-4031-a185-dc7eca1991d7")
+	)
+	(wire
+		(pts
+			(xy 194.31 181.61) (xy 200.66 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aa5ade3-0df4-4988-baa6-4461a240e229")
 	)
 	(wire
 		(pts
@@ -1418,6 +1695,36 @@
 			(type default)
 		)
 		(uuid "6f33cd18-64f8-4a00-b149-d2e777aebe15")
+	)
+	(wire
+		(pts
+			(xy 175.26 196.85) (xy 160.02 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fd30326-0df1-426c-83e6-d92754c2bc5f")
+	)
+	(wire
+		(pts
+			(xy 160.02 181.61) (xy 175.26 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7055873b-23fc-4fc1-b6d5-634dd471ff8d")
+	)
+	(wire
+		(pts
+			(xy 154.94 167.64) (xy 154.94 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "709a1652-c7e3-444f-baf5-a81a9fc07050")
 	)
 	(wire
 		(pts
@@ -1541,16 +1848,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 184.15) (xy 203.2 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aacad106-5963-4257-af4d-6c1e052f42ca")
-	)
-	(wire
-		(pts
 			(xy 114.3 129.54) (xy 121.92 129.54)
 		)
 		(stroke
@@ -1671,13 +1968,13 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 181.61) (xy 203.2 181.61)
+			(xy 194.31 196.85) (xy 200.66 196.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dabbce60-49fb-447d-bcf0-6d4a5470a70e")
+		(uuid "d7e3764b-c4e4-43b2-bc34-1bdfb88768e8")
 	)
 	(wire
 		(pts
@@ -1804,7 +2101,7 @@
 	)
 	(hierarchical_label "Fault"
 		(shape output)
-		(at 203.2 181.61 0)
+		(at 200.66 196.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1912,7 +2209,7 @@
 	)
 	(hierarchical_label "Temp"
 		(shape output)
-		(at 203.2 184.15 0)
+		(at 200.66 181.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1921,6 +2218,142 @@
 			(justify left)
 		)
 		(uuid "fc0a4c8a-4ad8-43b0-96ca-8a09a8e61665")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 154.94 173.99 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b62ae46-f39e-4636-9d45-62df755d66d8")
+		(property "Reference" "R8"
+			(at 152.4 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "3k6"
+			(at 152.4 175.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 153.162 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 154.94 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c394022c-35fb-470a-9fa8-38c5ff9c00e2")
+		)
+		(pin "2"
+			(uuid "855e840f-99be-4946-8680-8286d6aaa4e0")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5P")
+		(at 154.94 167.64 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "34e22c04-398a-49b4-b157-5cf6ae5e4fa5")
+		(property "Reference" "#PWR0162"
+			(at 154.94 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5P"
+			(at 154.94 162.814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5P\""
+			(at 154.94 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f125ddc1-15ec-4779-b31c-b74c01d500d6")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(reference "#PWR0162")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "main:GNDH")
@@ -2448,7 +2881,7 @@
 		)
 	)
 	(sheet
-		(at 176.53 179.07)
+		(at 175.26 177.8)
 		(size 19.05 7.62)
 		(fields_autoplaced yes)
 		(stroke
@@ -2458,9 +2891,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "80738a43-c598-4f09-a725-55d3789b6a7d")
-		(property "Sheetname" "Vfo"
-			(at 176.53 178.3584 0)
+		(uuid "3ed469bd-720e-4d16-a68e-372d2678e355")
+		(property "Sheetname" "IPM_Temp"
+			(at 175.26 177.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2468,8 +2901,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "vfo.kicad_sch"
-			(at 176.53 187.2746 0)
+		(property "Sheetfile" "ipm_temp.kicad_sch"
+			(at 175.26 186.0046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2478,39 +2911,87 @@
 			)
 		)
 		(pin "vfo" input
-			(at 176.53 181.61 180)
+			(at 175.26 181.61 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2724c374-f215-44f2-b4d3-0e059103fb66")
-		)
-		(pin "Fault" output
-			(at 195.58 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "c8355369-0a4c-4d59-b4d8-4ab2f768522e")
+			(uuid "b67b9d4e-7f8a-45f2-a886-176fb05394a1")
 		)
 		(pin "Temp" output
-			(at 195.58 184.15 0)
+			(at 194.31 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0ac0aff5-4e19-4127-ab07-c4bed124fb12")
+			(uuid "74944298-07bd-4296-b1d3-77e4d335b784")
 		)
 		(instances
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
-					(page "13")
+					(page "42")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 193.675)
+		(size 19.05 6.985)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "62915f44-043a-4126-9475-3b614f12e7e0")
+		(property "Sheetname" "IPM Fault"
+			(at 175.26 192.9634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ipm_fault.kicad_sch"
+			(at 175.26 201.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "vfo" input
+			(at 175.26 196.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6806f583-66e4-4875-b885-b070671cd291")
+		)
+		(pin "Fault" output
+			(at 194.31 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "84242899-6ae1-4307-88c5-06aeae3b5db4")
+		)
+		(instances
+			(project "main"
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/5d407613-ca47-4478-86ea-137e1786be86"
+					(page "43")
 				)
 			)
 		)
