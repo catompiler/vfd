@@ -3040,7 +3040,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20V 1W"
+		(property "Value" "1N4747A"
 			(at 132.08 149.8599 90)
 			(effects
 				(font
@@ -3049,7 +3049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 129.54 148.59 0)
 			(effects
 				(font
@@ -3067,7 +3067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Zener diode"
+		(property "Description" "20V 1W"
 			(at 129.54 148.59 0)
 			(effects
 				(font
@@ -3183,7 +3183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "main:Fuseholder_Clip-5x20mm_KLS5-266"
 			(at 226.06 98.298 90)
 			(effects
 				(font

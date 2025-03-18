@@ -365,7 +365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "main:DG350-3.5-03P"
 			(at 163.83 93.98 0)
 			(effects
 				(font

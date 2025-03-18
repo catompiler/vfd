@@ -2147,7 +2147,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20V 1W"
+		(property "Value" "1N4747A"
 			(at 148.59 81.2799 90)
 			(effects
 				(font
@@ -2156,7 +2156,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 146.05 80.01 0)
 			(effects
 				(font
@@ -2174,7 +2174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Zener diode"
+		(property "Description" "20V 1W"
 			(at 146.05 80.01 0)
 			(effects
 				(font

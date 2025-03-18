@@ -5927,7 +5927,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "main:Fuseholder_Clip-5x20mm_KLS5-266"
 			(at 46.99 33.782 90)
 			(effects
 				(font

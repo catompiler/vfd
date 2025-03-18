@@ -1,4 +1,4 @@
-24208476746623370
+24213703654334417
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97965,6 +97965,13 @@ Varistor VF
 2
 2
 main
+BH502 FUSE CASE
+
+
+0
+2
+2
+main
 DG45C-B-06P-13-00A
 terminal block Metz Connect Type703_RT10N02HGLU, 2 pins, pitch 9.52mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317031_RT10NxxHGLU_OFF-022897S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
 THT terminal block Metz Connect Type703_RT10N02HGLU pitch 9.52mm size 19x12.5mm^2 drill 1.3mm pad 2.6mm
@@ -97993,12 +98000,26 @@ DG142V-08P-5.08_V1.0
 16
 8
 main
+DG350-3.5-03P
+
+
+0
+3
+3
+main
 Diode_Bridge_Vishay_GSIB-5S
 Diotec 32x5.6x17mm rectifier package, 7.5mm/10mm pitch, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700.pdf
 Diotec rectifier diode bridge
 0
 4
 4
+main
+Fuseholder_Clip-5x20mm_KLS5-266
+Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 445/030, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
+fuse clip open
+0
+4
+2
 main
 IC_IKCM30F60GDXKMA1
 
@@ -98033,18 +98054,18 @@ Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 
 Through hole socket strip THT 2x20 2.54mm double row
 0
 80
-40
+80
 main
 XMC47_RELAX_KIT_V1
 Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
 Through hole socket strip THT 2x20 2.54mm double row
 0
 80
-40
+80
 main
 XMC71_EVAL_KIT_V1
 Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
 Through hole socket strip THT 2x20 2.54mm double row
 0
 114
-40
+114
