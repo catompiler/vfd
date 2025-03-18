@@ -549,7 +549,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 88.9) (xy 157.48 91.44)
+			(xy 134.62 81.28) (xy 134.62 78.74)
 		)
 		(stroke
 			(width 0)
@@ -559,7 +559,17 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 93.98) (xy 160.02 93.98)
+			(xy 134.62 88.9) (xy 134.62 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d9ab4e8-89ec-42b1-b2f5-1b61d502d1c7")
+	)
+	(wire
+		(pts
+			(xy 132.08 93.98) (xy 139.7 93.98)
 		)
 		(stroke
 			(width 0)
@@ -569,7 +579,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 96.52) (xy 157.48 96.52)
+			(xy 132.08 96.52) (xy 134.62 96.52)
 		)
 		(stroke
 			(width 0)
@@ -579,17 +589,17 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 91.44) (xy 157.48 91.44)
+			(xy 134.62 91.44) (xy 132.08 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7dfc8b1f-549c-4e45-a230-8c90a216dfc8")
+		(uuid "6baa0535-5306-4db6-a1ce-ec269683bfdb")
 	)
 	(wire
 		(pts
-			(xy 157.48 99.06) (xy 157.48 96.52)
+			(xy 134.62 99.06) (xy 134.62 96.52)
 		)
 		(stroke
 			(width 0)
@@ -597,19 +607,9 @@
 		)
 		(uuid "84c0e0ef-3857-429d-8e99-f0e387e4ca26")
 	)
-	(wire
-		(pts
-			(xy 132.08 91.44) (xy 139.7 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9206bf9a-472f-470a-98a2-80ce011b74ff")
-	)
 	(hierarchical_label "AIN0"
 		(shape output)
-		(at 160.02 93.98 0)
+		(at 139.7 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -620,32 +620,34 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 143.51 91.44 90)
+		(at 134.62 85.09 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6039ad37-d906-4eab-880f-784d3cd59a7e")
 		(property "Reference" "L6"
-			(at 143.51 86.36 90)
+			(at 133.35 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "120 Ohm @ 100 MHz"
-			(at 143.51 88.9 90)
+			(at 133.35 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
-			(at 143.51 91.44 0)
+			(at 134.62 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -654,7 +656,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 91.44 0)
+			(at 134.62 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -663,7 +665,7 @@
 			)
 		)
 		(property "Description" "BLM21PG121SN1D"
-			(at 143.51 91.44 0)
+			(at 134.62 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -688,7 +690,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 157.48 99.06 0)
+		(at 134.62 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -697,7 +699,7 @@
 		(fields_autoplaced yes)
 		(uuid "9c68e1e0-d431-469a-a3ea-f31779d28d07")
 		(property "Reference" "#PWR18"
-			(at 157.48 105.41 0)
+			(at 134.62 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -706,7 +708,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 157.48 104.14 0)
+			(at 134.62 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -714,7 +716,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 99.06 0)
+			(at 134.62 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -723,7 +725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 99.06 0)
+			(at 134.62 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -732,7 +734,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 157.48 99.06 0)
+			(at 134.62 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -754,7 +756,7 @@
 	)
 	(symbol
 		(lib_id "power:+5VA")
-		(at 157.48 88.9 0)
+		(at 134.62 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -763,7 +765,7 @@
 		(fields_autoplaced yes)
 		(uuid "fbae2a4a-df8e-40b5-9487-44681c335718")
 		(property "Reference" "#PWR19"
-			(at 157.48 92.71 0)
+			(at 134.62 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -772,7 +774,7 @@
 			)
 		)
 		(property "Value" "+5VA"
-			(at 157.48 83.82 0)
+			(at 134.62 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -780,7 +782,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 88.9 0)
+			(at 134.62 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -789,7 +791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 88.9 0)
+			(at 134.62 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -798,7 +800,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5VA\""
-			(at 157.48 88.9 0)
+			(at 134.62 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
