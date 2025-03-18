@@ -706,21 +706,21 @@
 				)
 			)
 		)
-		(symbol "Switch:SW_DIP_x01"
+		(symbol "Switch:SW_DIP_x02"
 			(pin_names
 				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "SW"
-				(at 0 3.81 0)
+				(at 0 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "SW_DIP_x01"
+			(property "Value" "SW_DIP_x02"
 				(at 0 -3.81 0)
 				(effects
 					(font
@@ -746,7 +746,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+			(property "Description" "2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
 				(at 0 0 0)
 				(effects
 					(font
@@ -764,7 +764,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "SW?DIP?x1*"
+			(property "ki_fp_filters" "SW?DIP?x2*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -773,9 +773,20 @@
 					(hide yes)
 				)
 			)
-			(symbol "SW_DIP_x01_0_0"
+			(symbol "SW_DIP_x02_0_0"
 				(circle
 					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.032 2.54)
 					(radius 0.508)
 					(stroke
 						(width 0)
@@ -797,6 +808,18 @@
 						(type none)
 					)
 				)
+				(polyline
+					(pts
+						(xy -1.524 2.667) (xy 2.3622 3.7084)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(circle
 					(center 2.032 0)
 					(radius 0.508)
@@ -808,10 +831,21 @@
 						(type none)
 					)
 				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 			)
-			(symbol "SW_DIP_x01_0_1"
+			(symbol "SW_DIP_x02_0_1"
 				(rectangle
-					(start -3.81 2.54)
+					(start -3.81 5.08)
 					(end 3.81 -2.54)
 					(stroke
 						(width 0.254)
@@ -822,9 +856,9 @@
 					)
 				)
 			)
-			(symbol "SW_DIP_x01_1_1"
+			(symbol "SW_DIP_x02_1_1"
 				(pin passive line
-					(at -7.62 0 0)
+					(at -7.62 2.54 0)
 					(length 5.08)
 					(name "~"
 						(effects
@@ -842,7 +876,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 0 180)
+					(at -7.62 0 0)
 					(length 5.08)
 					(name "~"
 						(effects
@@ -852,6 +886,42 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1354,13 +1424,23 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 86.36) (xy 138.43 102.87)
+			(xy 138.43 86.36) (xy 138.43 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1ff50b3d-c0ba-40ea-b043-2c4f2965802b")
+	)
+	(wire
+		(pts
+			(xy 158.75 97.79) (xy 158.75 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2082c5b4-a8e9-4d34-9672-4d3c157224e7")
 	)
 	(wire
 		(pts
@@ -1371,6 +1451,16 @@
 			(type default)
 		)
 		(uuid "268d5863-1210-4f8b-8f0e-215507432974")
+	)
+	(wire
+		(pts
+			(xy 158.75 95.25) (xy 161.29 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26e2dec7-1567-4a35-8b2a-8981b0fee5ea")
 	)
 	(wire
 		(pts
@@ -1461,6 +1551,16 @@
 			(type default)
 		)
 		(uuid "41b92d43-fdf7-4681-9653-adc7e46162b4")
+	)
+	(wire
+		(pts
+			(xy 157.48 100.33) (xy 158.75 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "476a20b4-a599-4f3d-96c9-9336e7722027")
 	)
 	(wire
 		(pts
@@ -1614,13 +1714,13 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 102.87) (xy 161.29 102.87)
+			(xy 158.75 100.33) (xy 158.75 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8b807013-9b3e-4959-a326-76f6163f6c04")
+		(uuid "8845d3dd-8b23-48bc-b1c6-c95a4465c6b3")
 	)
 	(wire
 		(pts
@@ -1674,7 +1774,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 102.87) (xy 138.43 102.87)
+			(xy 138.43 100.33) (xy 142.24 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1704,16 +1804,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 95.25) (xy 140.97 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6682a50-ff42-415d-9e0b-6947fa8cf22b")
-	)
-	(wire
-		(pts
 			(xy 106.68 67.31) (xy 106.68 69.85)
 		)
 		(stroke
@@ -1724,7 +1814,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 95.25) (xy 140.97 83.82)
+			(xy 140.97 83.82) (xy 140.97 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1744,6 +1834,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 97.79) (xy 142.24 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd4746e1-28b8-48e0-8402-0e520357818e")
+	)
+	(wire
+		(pts
 			(xy 171.45 102.87) (xy 168.91 102.87)
 		)
 		(stroke
@@ -1754,6 +1854,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 97.79) (xy 158.75 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d475749a-6f5c-4c5d-ac94-1068bc7d4ce1")
+	)
+	(wire
+		(pts
 			(xy 184.15 99.06) (xy 187.96 99.06)
 		)
 		(stroke
@@ -1761,6 +1871,16 @@
 			(type default)
 		)
 		(uuid "db6bf4ea-00d8-4706-81ac-b8c136f5de5e")
+	)
+	(wire
+		(pts
+			(xy 158.75 102.87) (xy 161.29 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e162b597-3bf5-4ab4-9055-1b678bfacc11")
 	)
 	(wire
 		(pts
@@ -1982,74 +2102,6 @@
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/dd58f61f-c5ca-456a-ab08-38b10841227b"
 					(reference "#PWR0112")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_DIP_x01")
-		(at 148.59 102.87 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "16db1ad4-1de8-43c6-9f73-9bfcc3323c39")
-		(property "Reference" "SW1"
-			(at 148.59 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "CAN_TERM"
-			(at 148.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 148.59 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 148.59 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
-			(at 148.59 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "15b5d699-5da8-467e-b0b6-99608c30c3fd")
-		)
-		(pin "1"
-			(uuid "ce11f84e-2447-4e08-9975-a80e03c40184")
-		)
-		(instances
-			(project ""
-				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/dd58f61f-c5ca-456a-ab08-38b10841227b"
-					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -2344,6 +2396,79 @@
 			(project "main"
 				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/dd58f61f-c5ca-456a-ab08-38b10841227b"
 					(reference "R100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_DIP_x02")
+		(at 149.86 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "30c92574-a310-47f3-ad7c-092e4e645a69")
+		(property "Reference" "SW2"
+			(at 149.86 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_DIP_x02"
+			(at 149.86 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+			(at 149.86 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "25bd4854-8c42-4d9e-af4f-aac66f8b7f75")
+		)
+		(pin "2"
+			(uuid "633484c2-6ef8-4b4f-b35e-9cc61fb5d5ed")
+		)
+		(pin "3"
+			(uuid "7a0de270-be1f-4728-92b0-5015c262cea0")
+		)
+		(pin "4"
+			(uuid "5a7247b8-e87a-4d05-a5d9-9112d8cc6ddb")
+		)
+		(instances
+			(project ""
+				(path "/c11d1dbc-4db9-4712-8d1d-5f6f7086cded/dd58f61f-c5ca-456a-ab08-38b10841227b"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
